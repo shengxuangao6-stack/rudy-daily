@@ -100,16 +100,16 @@ a {
 .front-grid {
   display: grid;
   gap: 22px;
-  padding-top: 28px;
+  padding-top: 26px;
 }
 
 .front-page {
   display: grid;
-  gap: 18px;
+  gap: 22px;
 }
 
 .front-copy {
-  max-width: 680px;
+  max-width: 760px;
 }
 
 .kicker,
@@ -126,8 +126,19 @@ a {
 .front-title {
   max-width: 900px;
   margin: 9px 0 10px;
-  font-size: clamp(1.65rem, 5.8vw, 3.25rem);
-  line-height: 1.08;
+  font-size: clamp(1.72rem, 5.1vw, 3.05rem);
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+.front-title-balanced {
+  font-size: clamp(1.55rem, 4.2vw, 2.55rem);
+  line-height: 1.14;
+}
+
+.front-title-compact {
+  font-size: clamp(1.36rem, 3.4vw, 2.05rem);
+  line-height: 1.18;
 }
 
 .article-title {
@@ -274,12 +285,12 @@ a {
 }
 
 .front-image {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1.35 / 1;
   border: 1px solid rgba(21, 21, 21, 0.16);
 }
 
 .article-image {
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1.55 / 1;
 }
 
 .detail-image {
@@ -298,6 +309,34 @@ a {
   max-width: 760px;
   margin: 0 auto;
   padding: 28px 0 8px;
+}
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.32);
+  color: var(--ink);
+  margin-bottom: 18px;
+  padding: 8px 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.back-button::before {
+  content: "<";
+  margin-right: 8px;
+  color: var(--red-deep);
+}
+
+.back-button:hover {
+  background: var(--ink);
+  color: var(--paper);
 }
 
 .detail-title {
@@ -353,7 +392,7 @@ a {
   }
 
   .front-grid {
-    grid-template-columns: minmax(0, 1fr) 260px;
+    grid-template-columns: minmax(0, 1fr) 245px;
     align-items: end;
     border-bottom: 1px solid var(--hairline);
     padding-bottom: 34px;
@@ -379,12 +418,13 @@ a {
 
 @media (min-width: 1040px) {
   .front-page {
-    grid-template-columns: minmax(0, 0.95fr) minmax(430px, 1.05fr);
+    grid-template-columns: minmax(0, 0.82fr) minmax(520px, 1.18fr);
     align-items: center;
-    column-gap: 38px;
+    column-gap: 52px;
   }
 
   .front-copy {
-    padding-left: 10px;
+    max-width: 720px;
+    padding-left: 8px;
   }
 }
