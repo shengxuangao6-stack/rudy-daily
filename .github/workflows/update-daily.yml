@@ -2,6 +2,7 @@ name: Update Rudy Daily
 
 on:
   schedule:
+    # 08:00 Beijing time every day.
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -25,7 +26,7 @@ jobs:
         run: npm ci
 
       - name: Update daily issue
-        run: node scripts/update-daily.js
+        run: npm run update:daily
 
       - name: Build check
         run: npm run build
