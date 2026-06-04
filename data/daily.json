@@ -1,0 +1,102 @@
+{
+  "date": "2026-06-04",
+  "issueNumber": "001",
+  "articles": [
+    {
+      "id": "article-001",
+      "title": "How AI Is Changing the Way Students Learn",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/",
+      "topic": "Technology & Society",
+      "summary": "This article discusses how AI tools are changing students' learning habits and the choices teachers now face.",
+      "whyRecommended": "This fits Rudy Daily because it connects technology, education, and responsible AI use, while using clear explanatory English that is useful for exams and future study.",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+      "isFrontPage": true,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-002",
+      "title": "Why Social Media Feels So Hard to Leave",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/",
+      "topic": "Technology & Society",
+      "summary": "This piece explains why digital platforms can shape attention, habits, and everyday decisions.",
+      "whyRecommended": "The topic is close to student life and gives the reader reusable English for talking about platforms, attention, and self-control without becoming too technical.",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-003",
+      "title": "What Makes a City Feel Livable?",
+      "source": "Urban Institute",
+      "url": "https://www.urban.org/",
+      "topic": "Public Life",
+      "summary": "This article looks at housing, transport, public space, and the daily details that make city life easier.",
+      "whyRecommended": "It supports broad social-science vocabulary while staying grounded in concrete urban experiences that a college student can imagine and discuss.",
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-004",
+      "title": "How Inequality Shapes Everyday Choices",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/",
+      "topic": "Public Life",
+      "summary": "This reading introduces how income, education, and opportunity influence ordinary decisions in modern society.",
+      "whyRecommended": "The article type is useful for exam reading because it presents a clear social issue, evidence-based reasoning, and vocabulary for public affairs.",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-005",
+      "title": "The Quiet Work of Setting Better Boundaries",
+      "source": "Psyche",
+      "url": "https://psyche.co/",
+      "topic": "Mind & Relationships",
+      "summary": "This essay explains why boundaries matter in friendships, family life, and emotional health.",
+      "whyRecommended": "It gives the user natural English for describing relationships and emotions, with a calm style that is easy to imitate in personal expression.",
+      "imageUrl": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-006",
+      "title": "Why We Overthink Small Conversations",
+      "source": "Aeon",
+      "url": "https://aeon.co/",
+      "topic": "Mind & Relationships",
+      "summary": "This article explores why people replay small social moments and how that habit affects confidence.",
+      "whyRecommended": "The subject connects directly with self-reflection and speaking anxiety, helping the reader build English for thoughts they may already have in Chinese.",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-007",
+      "title": "The Small Rituals That Make a Cafe Feel Like Home",
+      "source": "World Bank Blogs",
+      "url": "https://blogs.worldbank.org/",
+      "topic": "Culture & Daily Life",
+      "summary": "This lifestyle-style reading considers how public places, routines, and small services shape everyday comfort.",
+      "whyRecommended": "It gives practical vocabulary for ordinary places and habits, making English feel connected to real daily life instead of a classroom topic.",
+      "imageUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    },
+    {
+      "id": "article-008",
+      "title": "Finding Your Own Voice in a Second Language",
+      "source": "Stanford HAI",
+      "url": "https://hai.stanford.edu/",
+      "topic": "Language & Self",
+      "summary": "This article reflects on how learners develop clearer expression by reading, noticing patterns, and speaking from real interests.",
+      "whyRecommended": "It matches the core philosophy of Rudy Daily: meaningful input first, gradual pattern absorption, and English that becomes an extension of the learner's own mind.",
+      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-04"
+    }
+  ]
+}
