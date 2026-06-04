@@ -3,8 +3,19 @@ const path = require("node:path");
 
 const ROOT = path.join(__dirname, "..");
 const DAILY_PATH = path.join(ROOT, "data", "daily.json");
+const MIN_ARTICLES = 5;
 const MAX_ARTICLES = 8;
+const MAX_PER_SOURCE = 2;
+const MAX_PER_TOPIC = 2;
 const START_DATE = "2026-06-04";
+
+const topics = [
+  "Technology & Society",
+  "Public Life",
+  "Mind & Relationships",
+  "Culture & Daily Life",
+  "Language & Self"
+];
 
 const feeds = [
   {
@@ -36,33 +47,27 @@ const feeds = [
     source: "World Bank Blogs",
     url: "https://blogs.worldbank.org/en/rss.xml",
     topicHint: "Public Life"
+  },
+  {
+    source: "Brookings",
+    url: "https://www.brookings.edu/feed/",
+    topicHint: "Public Life"
+  },
+  {
+    source: "Urban Institute",
+    url: "https://www.urban.org/rss.xml",
+    topicHint: "Public Life"
+  },
+  {
+    source: "Pew Research Center",
+    url: "https://www.pewresearch.org/feed/",
+    topicHint: "Public Life"
+  },
+  {
+    source: "IMF Blog",
+    url: "https://www.imf.org/en/Blogs/RSS",
+    topicHint: "Public Life"
   }
-];
-
-const topicImages = {
-  "Technology & Society":
-    "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
-  "Public Life":
-    "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
-  "Mind & Relationships":
-    "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=80",
-  "Culture & Daily Life":
-    "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
-  "Language & Self":
-    "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80"
-};
-
-const imagePool = [
-  "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
-  "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=900&q=80"
 ];
 
 const topicKeywords = [
@@ -76,8 +81,11 @@ const topicKeywords = [
       "platform",
       "internet",
       "media",
+      "algorithm",
+      "innovation",
       "students",
-      "education"
+      "education",
+      "laptop"
     ]
   },
   {
@@ -92,7 +100,10 @@ const topicKeywords = [
       "government",
       "public",
       "urban",
-      "society"
+      "transport",
+      "society",
+      "work",
+      "climate"
     ]
   },
   {
@@ -105,6 +116,9 @@ const topicKeywords = [
       "mental",
       "anxiety",
       "family",
+      "communication",
+      "solitude",
+      "reflection",
       "self"
     ]
   },
@@ -116,17 +130,64 @@ const topicKeywords = [
       "travel",
       "food",
       "cafe",
+      "book",
+      "books",
       "film",
       "music",
       "daily",
-      "habit"
+      "habit",
+      "home"
     ]
   },
   {
     topic: "Language & Self",
-    words: ["language", "english", "writing", "speaking", "communication", "voice", "learning"]
+    words: [
+      "language",
+      "english",
+      "writing",
+      "speaking",
+      "communication",
+      "voice",
+      "learning",
+      "reading",
+      "study",
+      "notebook"
+    ]
   }
 ];
+
+const topicImagePools = {
+  "Technology & Society": [
+    "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "Public Life": [
+    "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "Mind & Relationships": [
+    "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "Culture & Daily Life": [
+    "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80"
+  ],
+  "Language & Self": [
+    "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=1200&q=80",
+    "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1200&q=80"
+  ]
+};
 
 main().catch((error) => {
   console.error(error);
@@ -139,8 +200,8 @@ async function main() {
   const fetched = await fetchAllFeeds();
   const articles = selectArticles(fetched, today);
 
-  if (articles.length < 5) {
-    console.log("Not enough feed articles fetched. Keeping existing daily.json.");
+  if (articles.length < MIN_ARTICLES) {
+    console.log(`Only found ${articles.length} suitable articles. Keeping existing daily.json.`);
     return;
   }
 
@@ -160,6 +221,8 @@ async function main() {
 
   await fs.writeFile(DAILY_PATH, nextJson, "utf8");
   console.log(`Updated daily.json for ${today} with ${articles.length} articles.`);
+  console.log(`Topics: ${summarizeCounts(articles, "topic")}`);
+  console.log(`Sources: ${summarizeCounts(articles, "source")}`);
 }
 
 async function readPreviousIssue() {
@@ -169,7 +232,17 @@ async function readPreviousIssue() {
 
 async function fetchAllFeeds() {
   const results = await Promise.allSettled(feeds.map(fetchFeed));
-  return results.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
+  const articles = [];
+
+  for (const result of results) {
+    if (result.status === "fulfilled") {
+      articles.push(...result.value);
+    } else {
+      console.warn(result.reason.message);
+    }
+  }
+
+  return articles;
 }
 
 async function fetchFeed(feed) {
@@ -220,40 +293,116 @@ function readLink(block) {
 }
 
 function selectArticles(items, today) {
-  const seen = new Set();
-  const scored = items
-    .map((item) => {
-      const topic = classifyTopic(item, item.topicHint);
-      const text = `${item.title} ${item.summary}`.toLowerCase();
-      const score = scoreItem(text, topic);
-      return { ...item, topic, score };
-    })
-    .filter((item) => item.score > 0)
-    .sort((a, b) => b.score - a.score);
+  const candidates = scoreCandidates(items);
+  const grouped = groupByTopic(candidates);
+  const selected = selectBalancedMix(grouped, today);
 
-  const selected = [];
-  for (const item of scored) {
-    const key = normalizeUrl(item.url);
-    if (seen.has(key)) continue;
-    seen.add(key);
+  return selected.map((item, index) => {
+    const image = pickImage(item.topic, item.title, today, index);
 
-    selected.push({
-      id: `article-${String(selected.length + 1).padStart(3, "0")}`,
+    return {
+      id: `article-${String(index + 1).padStart(3, "0")}`,
       title: item.title,
       source: item.source,
       url: item.url,
       topic: item.topic,
       summary: item.summary,
       whyRecommended: makeWhyRecommended(item.topic),
-      imageUrl: pickImage(item.topic, selected.length),
-      isFrontPage: selected.length === 0,
+      image,
+      imageUrl: image,
+      isFrontPage: index === 0,
       date: today
-    });
+    };
+  });
+}
 
-    if (selected.length >= MAX_ARTICLES) break;
+function scoreCandidates(items) {
+  const seen = new Set();
+
+  return items
+    .map((item) => {
+      const topic = classifyTopic(item, item.topicHint);
+      const text = `${item.title} ${item.summary}`.toLowerCase();
+      return {
+        ...item,
+        topic,
+        score: scoreItem(text, topic)
+      };
+    })
+    .filter((item) => {
+      const key = normalizeUrl(item.url);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return item.score > 0 && isReadableCandidate(item);
+    })
+    .sort((a, b) => b.score - a.score);
+}
+
+function groupByTopic(candidates) {
+  const grouped = Object.fromEntries(topics.map((topic) => [topic, []]));
+
+  for (const candidate of candidates) {
+    grouped[candidate.topic]?.push(candidate);
   }
 
-  return selected;
+  return grouped;
+}
+
+function selectBalancedMix(grouped, today) {
+  const selected = [];
+  const sourceCounts = new Map();
+  const topicCounts = new Map();
+  const topicOrder = rotateArray(topics, seededIndex(today, "topic-order", topics.length));
+
+  for (const topic of topicOrder) {
+    const picked = takeCandidate(grouped[topic], sourceCounts, topicCounts, { topic, strictTopicLimit: true });
+    if (picked) selected.push(picked);
+    if (selected.length >= MIN_ARTICLES && countDistinct(selected, "topic") >= 4) break;
+  }
+
+  let relaxedTopicLimit = false;
+  while (selected.length < MAX_ARTICLES) {
+    const before = selected.length;
+
+    for (const topic of topicOrder) {
+      const picked = takeCandidate(grouped[topic], sourceCounts, topicCounts, {
+        topic,
+        strictTopicLimit: !relaxedTopicLimit
+      });
+      if (picked) selected.push(picked);
+      if (selected.length >= MAX_ARTICLES) break;
+    }
+
+    if (selected.length === before) {
+      if (!relaxedTopicLimit) {
+        relaxedTopicLimit = true;
+      } else {
+        break;
+      }
+    }
+  }
+
+  return selected.slice(0, MAX_ARTICLES);
+}
+
+function takeCandidate(candidates, sourceCounts, topicCounts, options) {
+  if (!candidates || candidates.length === 0) return null;
+
+  for (let index = 0; index < candidates.length; index += 1) {
+    const candidate = candidates[index];
+    const sourceCount = sourceCounts.get(candidate.source) || 0;
+    const topicCount = topicCounts.get(options.topic) || 0;
+
+    if (sourceCount >= MAX_PER_SOURCE) continue;
+    if (options.strictTopicLimit && topicCount >= MAX_PER_TOPIC) continue;
+
+    candidates.splice(index, 1);
+    sourceCounts.set(candidate.source, sourceCount + 1);
+    topicCounts.set(options.topic, topicCount + 1);
+    return candidate;
+  }
+
+  return null;
 }
 
 function classifyTopic(item, fallback) {
@@ -272,8 +421,19 @@ function scoreItem(text, topic) {
   const topicWords = topicKeywords.find((item) => item.topic === topic)?.words || [];
   const topicScore = topicWords.reduce((score, word) => score + (text.includes(word) ? 2 : 0), 0);
   const readabilityScore = text.length > 120 && text.length < 900 ? 2 : 0;
-  const interestScore = topicScore > 0 ? 3 : 1;
-  return topicScore + readabilityScore + interestScore;
+  const clearArgumentScore = /\bwhy\b|\bhow\b|\bwhat\b|\bcan\b|\bshould\b|\bmake\b/.test(text) ? 2 : 0;
+  const newsletterPenalty = /\bthe download\b|\bnewsletter\b|\broundup\b|\bpodcast\b/.test(text) ? -6 : 0;
+  const videoPenalty = /\bwatch on\b|\bvideo\b/.test(text) ? -2 : 0;
+
+  return topicScore + readabilityScore + clearArgumentScore + newsletterPenalty + videoPenalty + 2;
+}
+
+function isReadableCandidate(item) {
+  const text = `${item.title} ${item.summary}`.toLowerCase();
+  if (item.title.length > 115) return false;
+  if (item.summary.length < 60) return false;
+  if (/\bthe download\b|\bdaily briefing\b|\blive updates\b/.test(text)) return false;
+  return true;
 }
 
 function makeSummary(text) {
@@ -282,7 +442,7 @@ function makeSummary(text) {
 
   const sentence = cleaned.match(/^.*?[.!?](\s|$)/)?.[0]?.trim();
   const summary = sentence && sentence.length >= 60 ? sentence : cleaned;
-  return truncate(summary, 180);
+  return truncate(summary, 190);
 }
 
 function makeWhyRecommended(topic) {
@@ -302,12 +462,10 @@ function makeWhyRecommended(topic) {
   return reasons[topic] || reasons["Public Life"];
 }
 
-function pickImage(topic, index) {
-  if (index === 0 && topic === "Technology & Society") {
-    return imagePool[0];
-  }
-
-  return imagePool[index % imagePool.length] || topicImages[topic];
+function pickImage(topic, title, today, index) {
+  const pool = topicImagePools[topic] || topicImagePools["Public Life"];
+  const imageIndex = seededIndex(`${today}-${title}-${index}`, topic, pool.length);
+  return pool[imageIndex];
 }
 
 function getShanghaiDate() {
@@ -345,18 +503,14 @@ function stripCdata(value) {
 
 function decodeEntities(value) {
   return value
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(Number.parseInt(code, 16)))
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number.parseInt(code, 10)))
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, "\"")
     .replace(/&#39;/g, "'")
-    .replace(/&#x27;/g, "'")
-    .replace(/&#8217;/g, "'")
-    .replace(/&#8216;/g, "'")
-    .replace(/&#8220;/g, "\"")
-    .replace(/&#8221;/g, "\"")
-    .replace(/&#8211;/g, "-")
-    .replace(/&#8212;/g, "-");
+    .replace(/&apos;/g, "'");
 }
 
 function truncate(value, maxLength) {
@@ -373,4 +527,34 @@ function normalizeUrl(url) {
   } catch {
     return url;
   }
+}
+
+function rotateArray(values, startIndex) {
+  return values.slice(startIndex).concat(values.slice(0, startIndex));
+}
+
+function seededIndex(seed, salt, length) {
+  if (length <= 1) return 0;
+
+  let hash = 2166136261;
+  const text = `${seed}:${salt}`;
+  for (let index = 0; index < text.length; index += 1) {
+    hash ^= text.charCodeAt(index);
+    hash = Math.imul(hash, 16777619);
+  }
+
+  return Math.abs(hash) % length;
+}
+
+function countDistinct(items, key) {
+  return new Set(items.map((item) => item[key])).size;
+}
+
+function summarizeCounts(items, key) {
+  const counts = new Map();
+  for (const item of items) {
+    counts.set(item[key], (counts.get(item[key]) || 0) + 1);
+  }
+
+  return [...counts.entries()].map(([name, count]) => `${name}: ${count}`).join(", ");
 }
