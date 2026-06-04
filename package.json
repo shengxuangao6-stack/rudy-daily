@@ -9,7 +9,7 @@
   "dev": "next dev",
   "build": "next build",
   "start": "next start",
-  "update:daily": "node scripts/update-daily.js"
+  "update:daily": "node scripts/update:daily.js"
 }
   },
   "dependencies": {
