@@ -52,6 +52,19 @@ const topicImages = {
     "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80"
 };
 
+const imagePool = [
+  "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+  "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=900&q=80"
+];
+
 const topicKeywords = [
   {
     topic: "Technology & Society",
@@ -232,7 +245,7 @@ function selectArticles(items, today) {
       topic: item.topic,
       summary: item.summary,
       whyRecommended: makeWhyRecommended(item.topic),
-      imageUrl: selected.length === 0 ? frontPageImage(item.topic) : topicImages[item.topic],
+      imageUrl: pickImage(item.topic, selected.length),
       isFrontPage: selected.length === 0,
       date: today
     });
@@ -289,12 +302,12 @@ function makeWhyRecommended(topic) {
   return reasons[topic] || reasons["Public Life"];
 }
 
-function frontPageImage(topic) {
-  if (topic === "Technology & Society") {
-    return "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80";
+function pickImage(topic, index) {
+  if (index === 0 && topic === "Technology & Society") {
+    return imagePool[0];
   }
 
-  return topicImages[topic];
+  return imagePool[index % imagePool.length] || topicImages[topic];
 }
 
 function getShanghaiDate() {
