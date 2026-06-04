@@ -31,8 +31,8 @@ export default async function ArticleDetailPage({ params }) {
         </main>
       ) : (
         <main className="detail-page">
-          <Link className="secondary-link" href="/">
-            Back to Today&apos;s Paper
+          <Link className="back-button" href="/">
+            Back to Home
           </Link>
           <p className="kicker">{article.topic}</p>
           <h1 className="detail-title">{article.title}</h1>
