@@ -6,11 +6,10 @@
     "node": ">=20.9.0"
   },
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "update:daily": "node scripts/update-daily.js"
-}
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "update:daily": "node scripts/update-daily.js"
   },
   "dependencies": {
     "next": "16.2.7",
