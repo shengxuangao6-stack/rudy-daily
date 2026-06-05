@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 export default function FrontPageArticle({ article }) {
+  const image = article.image || article.imageUrl;
   const titleLength = article.title.length;
   const titleClassName = `front-title ${
     titleLength > 82 ? "front-title-compact" : titleLength > 58 ? "front-title-balanced" : ""
@@ -8,7 +9,7 @@ export default function FrontPageArticle({ article }) {
 
   return (
     <main className="front-page">
-      <img className="front-image" src={article.imageUrl} alt="" />
+      <img className="front-image" src={image} alt="" />
       <div className="front-copy">
         <p className="kicker">Front Page / {article.topic}</p>
         <h2 className={titleClassName}>{article.title}</h2>

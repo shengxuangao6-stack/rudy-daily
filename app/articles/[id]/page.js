@@ -18,6 +18,7 @@ export async function generateMetadata({ params }) {
 export default async function ArticleDetailPage({ params }) {
   const { id } = await params;
   const article = daily.articles.find((item) => item.id === id);
+  const image = article?.image || article?.imageUrl;
 
   return (
     <Layout daily={daily}>
@@ -37,7 +38,7 @@ export default async function ArticleDetailPage({ params }) {
           <p className="kicker">{article.topic}</p>
           <h1 className="detail-title">{article.title}</h1>
           <p className="source-line">{article.source}</p>
-          <img className="detail-image" src={article.imageUrl} alt="" />
+          <img className="detail-image" src={image} alt="" />
 
           <section className="detail-panel" aria-labelledby="summary-heading">
             <h2 id="summary-heading">One-Sentence Summary</h2>

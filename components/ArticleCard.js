@@ -1,9 +1,11 @@
 import Link from "next/link";
 
 export default function ArticleCard({ article }) {
+  const image = article.image || article.imageUrl;
+
   return (
     <article className="article-card">
-      <img className="article-image" src={article.imageUrl} alt="" />
+      <img className="article-image" src={image} alt="" />
       <div className="article-card-body">
         <div className="article-meta">
           <span className="topic-tag">{article.topic}</span>
