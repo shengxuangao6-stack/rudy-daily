@@ -1,102 +1,102 @@
 {
-  "date": "2026-06-04",
-  "issueNumber": "001",
+  "date": "2026-06-05",
+  "issueNumber": "002",
   "articles": [
     {
       "id": "article-001",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "title": "Indigenous digital colonisation: How the internet is affecting the lives of Indigenous peoples in the Amazon",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/indigenous-digital-colonisation-how-the-internet-is-affecting-the-lives-of-indigenous-peoples-in-the-amazon-284267",
       "topic": "Technology & Society",
-      "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” M...",
+      "summary": "While technology can promote inclusion and access to information, it can also lead to dependency and affect the cultural identity of indigenous communities.",
       "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
       "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
       "isFrontPage": true,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "id": "article-002",
+      "title": "‘Utter disregard for the risk to human life’: Florida sues OpenAI and Sam Altman over AI safety",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/utter-disregard-for-the-risk-to-human-life-florida-sues-openai-and-sam-altman-over-ai-safety-284289",
+      "topic": "Technology & Society",
+      "summary": "The case is one of the most significant actions brought against an artificial intelligence company to date.",
+      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
+      "imageUrl": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-003",
+      "title": "Maps are powerful political tools shaping a nation’s past, present and future – counter maps allow everyday people to reclaim the narrative",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/maps-are-powerful-political-tools-shaping-a-nations-past-present-and-future-counter-maps-allow-everyday-people-to-reclaim-the-narrative-272482",
+      "topic": "Public Life",
+      "summary": "From who gets to vote to how people travel and where taxpayer dollars are funneled, politicians and urban planners wield maps to control public imagination.",
+      "whyRecommended": "This article gives clear language for public issues, evidence, and social change without becoming too academic.",
+      "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-004",
+      "title": "We analysed 14 million Reddit posts to reveal a striking shift in how we talk about mental health",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/we-analysed-14-million-reddit-posts-to-reveal-a-striking-shift-in-how-we-talk-about-mental-health-283059",
+      "topic": "Technology & Society",
+      "summary": "Social media platforms are shaping how we collectively think about mental health, a new study shows.",
+      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-005",
+      "title": "How Iran uses billboards as wartime propaganda – we selected 5 to explain what they mean",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/how-iran-uses-billboards-as-wartime-propaganda-we-selected-5-to-explain-what-they-mean-283151",
+      "topic": "Technology & Society",
+      "summary": "The provocative images in the most visible parts of Tehran are intended to be photographed, posted and shared widely on social media.",
+      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-006",
+      "title": "De-extinction company says it’s made an artificial egg – if true, it could help save living species",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/de-extinction-company-says-its-made-an-artificial-egg-if-true-it-could-help-save-living-species-283138",
+      "topic": "Technology & Society",
+      "summary": "Colossal Biosciences’ artificial egg technology would deliver a useful tool for the conservation of threatened birds, but only if it’s made publicly available.",
+      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
+      "imageUrl": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-007",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "topic": "Technology & Society",
+      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
+      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
+      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
+      "isFrontPage": false,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "article-008",
       "title": "The Download: Trump's new AI order, and smart glasses for warfare",
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "topic": "Technology & Society",
       "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
       "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
-      "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-003",
-      "title": "The Download: AI can run your admin department now",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "topic": "Technology & Society",
-      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
-      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
-      "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-004",
-      "title": "How small businesses can leverage AI",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "topic": "Technology & Society",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries.",
-      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
-      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-005",
-      "title": "The Download: China's brain implant ambitions",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-      "topic": "Technology & Society",
-      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
-      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
-      "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-006",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-      "topic": "Technology & Society",
-      "summary": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
-      "whyRecommended": "This article connects technology with everyday learning, attention, and social change, making it useful for building modern English expressions.",
-      "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-007",
-      "title": "Five tips for effective language learning",
-      "source": "Psyche",
-      "url": "https://psyche.co/videos/go-beyond-the-apps-to-build-language-learning-skills-that-stick",
-      "topic": "Culture & Daily Life",
-      "summary": "Make language learning part of your daily life with five nifty tips aimed at building fluency in real conversations - Video by BBC Ideas and the Open University Watch on Psyche",
-      "whyRecommended": "This article links English reading with ordinary culture and daily experience, so the language feels easier to absorb.",
       "imageUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
       "isFrontPage": false,
-      "date": "2026-06-04"
-    },
-    {
-      "id": "article-008",
-      "title": "Idle warriors",
-      "source": "Aeon",
-      "url": "https://aeon.co/videos/meet-the-bounty-hunters-who-enforce-new-yorks-idling-vehicle-ban",
-      "topic": "Public Life",
-      "summary": "How a public health initiative to reduce air pollution has created ‘full-time citizen complainants’ who patrol the city - by Aeon Video Watch on Aeon",
-      "whyRecommended": "This article gives clear language for public issues, evidence, and social change without becoming too academic.",
-      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=900&q=80",
-      "isFrontPage": false,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     }
   ]
 }
