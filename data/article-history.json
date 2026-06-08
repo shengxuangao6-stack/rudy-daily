@@ -48,6 +48,62 @@
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
+      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Key findings about Americans and mental health",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/20/key-findings-about-americans-and-mental-health/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Music speaks louder than words through what it leaves unsaid",
+      "url": "https://psyche.co/ideas/music-speaks-louder-than-words-through-what-it-leaves-unsaid",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "World’s largest study of child sexual abuse perpetrators reveals why they abuse",
+      "url": "https://theconversation.com/worlds-largest-study-of-child-sexual-abuse-perpetrators-reveals-why-they-abuse-275930",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "AI godbots: religious leaders warn of ‘alarming consequences’ when machines speak in the name of God",
+      "url": "https://theconversation.com/ai-godbots-religious-leaders-warn-of-alarming-consequences-when-machines-speak-in-the-name-of-god-281690",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Seeing grief for what it is",
+      "url": "https://psyche.co/notes-to-self/to-live-with-grief-requires-seeing-it-for-what-it-is",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "Life recombined",
+      "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
@@ -55,6 +111,11 @@
       "date": "2026-06-08",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
+    },
+    {
+      "date": "2026-06-08",
+      "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
+      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/"
     }
   ]
 }
