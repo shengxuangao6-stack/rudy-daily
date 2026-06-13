@@ -328,6 +328,48 @@
       "url": "https://www.pewresearch.org/politics/2026/06/10/how-foreign-policy-values-and-issues-cut-across-the-political-typology-groups/",
       "source": "Pew Research Center",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Spice Girls at 30: how girl power changed pop",
+      "url": "https://theconversation.com/spice-girls-at-30-how-girl-power-changed-pop-283826",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "World’s first AI-designed vaccine explained",
+      "url": "https://theconversation.com/worlds-first-ai-designed-vaccine-explained-284668",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Why China is betting on big nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Artist of sympathy and cruelty",
+      "url": "https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Inside soccer’s data renaissance",
+      "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+      "source": "MIT Technology Review",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "What shape is the Earth?",
+      "url": "https://aeon.co/essays/why-did-measuring-earths-true-shape-matter-for-science",
+      "source": "Aeon",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
@@ -360,6 +402,11 @@
       "date": "2026-06-12",
       "title": "Inside Interoception: The hidden sense of how you feel inside",
       "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
+    },
+    {
+      "date": "2026-06-13",
+      "title": "Spice Girls at 30: how girl power changed pop",
+      "url": "https://theconversation.com/spice-girls-at-30-how-girl-power-changed-pop-283826"
     }
   ]
 }
