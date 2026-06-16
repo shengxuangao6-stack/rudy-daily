@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-10",
-      "title": "How to talk to someone who has dementia",
-      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "What the tattoos of World Cup players say about their love, life and religious beliefs",
-      "url": "https://theconversation.com/what-the-tattoos-of-world-cup-players-say-about-their-love-life-and-religious-beliefs-284282",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Mysterious signals keep coming from space. We have found their ‘Rosetta stone’",
-      "url": "https://theconversation.com/mysterious-signals-keep-coming-from-space-we-have-found-their-rosetta-stone-281753",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Q&A: Do AI and bogus respondents threaten polling’s future?",
-      "url": "https://www.pewresearch.org/short-reads/2026/05/12/qa-do-ai-and-bogus-respondents-threaten-pollings-future/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Battery costs have declined by 99% in the last three decades, making electrified transport a reality",
-      "url": "https://ourworldindata.org/battery-price-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "71% of U.S. homeowners say their home insurance costs have gone up",
-      "url": "https://www.pewresearch.org/short-reads/2026/05/06/71-of-u-s-homeowners-say-their-home-insurance-costs-have-gone-up/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-10",
-      "title": "Why cheap waste management is key to stopping plastic pollution",
-      "url": "https://ourworldindata.org/why-cheap-waste-management-is-key-to-stopping-plastic-pollution",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-06-11",
       "title": "Why the electric SUV boom is a problem for climate, health and equity",
       "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262",
@@ -321,14 +265,65 @@
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Australia has already banned social media for under 16s – here’s what the UK can learn from the experience",
+      "url": "https://theconversation.com/australia-has-already-banned-social-media-for-under-16s-heres-what-the-uk-can-learn-from-the-experience-285256",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Toy Story 5 pits traditional toys vs a tablet. In real life, families can combine the two",
+      "url": "https://theconversation.com/toy-story-5-pits-traditional-toys-vs-a-tablet-in-real-life-families-can-combine-the-two-284938",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Population tool: How will populations across the world change in the 21st century?",
+      "url": "https://ourworldindata.org/population-simulation-tool",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "How to talk to someone who has dementia",
+      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Your daydreams know something you don’t. Look closely",
+      "url": "https://psyche.co/ideas/your-daydreams-know-something-you-dont-look-closely",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-10",
-      "title": "How to talk to someone who has dementia",
-      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia"
-    },
     {
       "date": "2026-06-11",
       "title": "Why the electric SUV boom is a problem for climate, health and equity",
@@ -353,6 +348,11 @@
       "date": "2026-06-16",
       "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
       "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
     }
   ]
 }
