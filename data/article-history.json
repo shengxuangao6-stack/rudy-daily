@@ -321,6 +321,62 @@
       "url": "https://psyche.co/ideas/your-daydreams-know-something-you-dont-look-closely",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
+      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Putin wanted to make Russia great again. Instead, Ukraine is the new rising power in Europe",
+      "url": "https://theconversation.com/putin-wanted-to-make-russia-great-again-instead-ukraine-is-the-new-rising-power-in-europe-284827",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "The special kind of knowledge that can’t be put into words",
+      "url": "https://psyche.co/ideas/the-special-kind-of-knowledge-that-cant-be-put-into-words",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Battery costs have declined by 99% in the last three decades, making electrified transport a reality",
+      "url": "https://ourworldindata.org/battery-price-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Does working from home make work-family balance easier?",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Why raves are such a reliable source of spiritual experience",
+      "url": "https://psyche.co/ideas/why-raves-are-such-a-reliable-source-of-spiritual-experience",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
@@ -353,6 +409,11 @@
       "date": "2026-06-17",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
+      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223"
     }
   ]
 }
