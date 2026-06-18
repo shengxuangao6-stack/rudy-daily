@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-11",
-      "title": "Why the electric SUV boom is a problem for climate, health and equity",
-      "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "As SpaceX, OpenAI and Anthropic plan blockbuster launches, will it make AI giants more accountable?",
-      "url": "https://theconversation.com/as-spacex-openai-and-anthropic-plan-blockbuster-launches-will-it-make-ai-giants-more-accountable-284665",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "How needing others became a source of shame for Americans",
-      "url": "https://psyche.co/ideas/how-needing-others-became-a-source-of-shame-for-americans",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "The “steroid olympics” were a circus—and a window into our culture",
-      "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
-      "source": "MIT Technology Review",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Beyond Red vs. Blue: The Political Typology",
-      "url": "https://www.pewresearch.org/politics/2026/06/10/beyond-red-vs-blue-the-political-typology/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "It’s not always clear when someone’s lost the ability to decide",
-      "url": "https://psyche.co/ideas/its-not-always-clear-when-someones-lost-the-ability-to-decide",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-11",
-      "title": "Who do Americans think is going to win the World Cup?",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/02/who-do-americans-think-is-going-to-win-the-world-cup/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-06-12",
       "title": "Inside Interoception: The hidden sense of how you feel inside",
       "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
@@ -377,14 +321,58 @@
       "url": "https://psyche.co/ideas/why-raves-are-such-a-reliable-source-of-spiritual-experience",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Donald Trump and Benjamin Netanyahu have different war aims – can the Iran peace deal survive?",
+      "url": "https://theconversation.com/donald-trump-and-benjamin-netanyahu-have-different-war-aims-can-the-iran-peace-deal-survive-285402",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Worried about your child’s sleep? Keep screens out of bedrooms and limit iPads before bed",
+      "url": "https://theconversation.com/worried-about-your-childs-sleep-keep-screens-out-of-bedrooms-and-limit-ipads-before-bed-285057",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Life recombined",
+      "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Is U.S. fertility at an all-time low? It depends how you measure it",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/17/is-us-fertility-at-an-all-time-low-it-depends-how-you-measure-it/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "How needing others became a source of shame for Americans",
+      "url": "https://psyche.co/ideas/how-needing-others-became-a-source-of-shame-for-americans",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "Entrepreneurs in Nairobi make the case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-11",
-      "title": "Why the electric SUV boom is a problem for climate, health and equity",
-      "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262"
-    },
     {
       "date": "2026-06-12",
       "title": "Inside Interoception: The hidden sense of how you feel inside",
@@ -414,6 +402,11 @@
       "date": "2026-06-17",
       "title": "Why the US government shut down Anthropic’s latest Claude AI model",
       "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223"
+    },
+    {
+      "date": "2026-06-18",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
     }
   ]
 }
