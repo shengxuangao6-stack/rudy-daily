@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-14",
-      "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
-      "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "If AI is addictive, where does the responsibility lie – with big tech or its users?",
-      "url": "https://theconversation.com/if-ai-is-addictive-where-does-the-responsibility-lie-with-big-tech-or-its-users-283810",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Which ‘you’ does your partner see?",
-      "url": "https://psyche.co/notes-to-self/does-your-partner-see-your-personality-the-way-you-do",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "A vocabulary for the future: poetry",
-      "url": "https://psyche.co/videos/a-writer-sets-out-to-clarify-what-is-and-what-is-not-poetry",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Job titles of the future: Nature’s drug designer",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Americans on what causes climate change: Human activity or natural patterns?",
-      "url": "https://www.pewresearch.org/science/2026/05/28/americans-on-what-causes-climate-change-human-activity-or-natural-patterns/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "How death came to Earth",
-      "url": "https://aeon.co/videos/the-celestial-affair-that-made-us-mortal-an-animated-indian-myth",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-14",
-      "title": "Trading volume on prediction markets has soared in recent months",
-      "url": "https://www.pewresearch.org/short-reads/2026/05/27/trading-volume-on-prediction-markets-has-soared-in-recent-months/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-06-16",
       "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
       "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/",
@@ -370,14 +314,58 @@
       "url": "https://psyche.co/turning-points/our-dog-died-then-i-started-noticing-the-odd-sounds",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
+      "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Does the body really ‘keep the score’ after trauma? How the debunked idea of ‘repressed memories’ is making a comeback",
+      "url": "https://theconversation.com/does-the-body-really-keep-the-score-after-trauma-how-the-debunked-idea-of-repressed-memories-is-making-a-comeback-279112",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "A vocabulary for the future: poetry",
+      "url": "https://psyche.co/videos/a-writer-sets-out-to-clarify-what-is-and-what-is-not-poetry",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Beyond Red vs. Blue: The Political Typology",
+      "url": "https://www.pewresearch.org/politics/2026/06/10/beyond-red-vs-blue-the-political-typology/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Seeing grief for what it is",
+      "url": "https://psyche.co/notes-to-self/to-live-with-grief-requires-seeing-it-for-what-it-is",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-14",
-      "title": "How Taiwan is balancing between American and Chinese visions of energy dominance",
-      "url": "https://theconversation.com/how-taiwan-is-balancing-between-american-and-chinese-visions-of-energy-dominance-284701"
-    },
     {
       "date": "2026-06-16",
       "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
@@ -407,6 +395,11 @@
       "date": "2026-06-20",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
+    },
+    {
+      "date": "2026-06-21",
+      "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
+      "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597"
     }
   ]
 }
