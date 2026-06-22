@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-16",
-      "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
-      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Love life: David Hockney, the artist who forced Britain to make room for colour, joy and queerness",
-      "url": "https://theconversation.com/love-life-david-hockney-the-artist-who-forced-britain-to-make-room-for-colour-joy-and-queerness-285231",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Five tips for effective language learning",
-      "url": "https://psyche.co/videos/go-beyond-the-apps-to-build-language-learning-skills-that-stick",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "AI godbots: religious leaders warn of ‘alarming consequences’ when machines speak in the name of God",
-      "url": "https://theconversation.com/ai-godbots-religious-leaders-warn-of-alarming-consequences-when-machines-speak-in-the-name-of-god-281690",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Key findings about Americans and mental health",
-      "url": "https://www.pewresearch.org/short-reads/2026/05/20/key-findings-about-americans-and-mental-health/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Why older people are happier and what we can learn from them",
-      "url": "https://psyche.co/ideas/why-older-people-are-happier-and-what-we-can-learn-from-them",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-16",
-      "title": "Five million children die every year — what do they die from?",
-      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-06-17",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
@@ -363,14 +307,65 @@
       "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Key findings about Americans and mental health",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/20/key-findings-about-americans-and-mental-health/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Love life: David Hockney, the artist who forced Britain to make room for colour, joy and queerness",
+      "url": "https://theconversation.com/love-life-david-hockney-the-artist-who-forced-britain-to-make-room-for-colour-joy-and-queerness-285231",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Five tips for effective language learning",
+      "url": "https://psyche.co/videos/go-beyond-the-apps-to-build-language-learning-skills-that-stick",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "World’s first AI-designed vaccine explained",
+      "url": "https://theconversation.com/worlds-first-ai-designed-vaccine-explained-284668",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Many Americans favor prayer in public schools, but few think it should be mandatory",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/22/many-americans-favor-prayer-in-public-schools-but-few-think-it-should-be-mandatory/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "What is this rock?",
+      "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Why older people are happier and what we can learn from them",
+      "url": "https://psyche.co/ideas/why-older-people-are-happier-and-what-we-can-learn-from-them",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-16",
-      "title": "How Americans Feel About Religion’s Influence in Government and Public Life",
-      "url": "https://www.pewresearch.org/religion/2026/05/14/how-americans-feel-about-religions-influence-in-government-and-public-life/"
-    },
     {
       "date": "2026-06-17",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
@@ -400,6 +395,11 @@
       "date": "2026-06-21",
       "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
       "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
     }
   ]
 }
