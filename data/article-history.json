@@ -1,118 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-17",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Australia has already banned social media for under 16s – here’s what the UK can learn from the experience",
-      "url": "https://theconversation.com/australia-has-already-banned-social-media-for-under-16s-heres-what-the-uk-can-learn-from-the-experience-285256",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Toy Story 5 pits traditional toys vs a tablet. In real life, families can combine the two",
-      "url": "https://theconversation.com/toy-story-5-pits-traditional-toys-vs-a-tablet-in-real-life-families-can-combine-the-two-284938",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "How to talk to someone who has dementia",
-      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Your daydreams know something you don’t. Look closely",
-      "url": "https://psyche.co/ideas/your-daydreams-know-something-you-dont-look-closely",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Putin wanted to make Russia great again. Instead, Ukraine is the new rising power in Europe",
-      "url": "https://theconversation.com/putin-wanted-to-make-russia-great-again-instead-ukraine-is-the-new-rising-power-in-europe-284827",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "The special kind of knowledge that can’t be put into words",
-      "url": "https://psyche.co/ideas/the-special-kind-of-knowledge-that-cant-be-put-into-words",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Battery costs have declined by 99% in the last three decades, making electrified transport a reality",
-      "url": "https://ourworldindata.org/battery-price-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Does working from home make work-family balance easier?",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Why raves are such a reliable source of spiritual experience",
-      "url": "https://psyche.co/ideas/why-raves-are-such-a-reliable-source-of-spiritual-experience",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-06-18",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
@@ -419,19 +307,65 @@
       "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Earth’s oldest crater really is over 3 billion years old, new study confirms",
+      "url": "https://theconversation.com/earths-oldest-crater-really-is-over-3-billion-years-old-new-study-confirms-283696",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Trump’s upgrade of the Lincoln Memorial Reflecting Pool has become a disaster. Why is it causing so much outrage?",
+      "url": "https://theconversation.com/trumps-upgrade-of-the-lincoln-memorial-reflecting-pool-has-become-a-disaster-why-is-it-causing-so-much-outrage-285945",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Your daydreams know something you don’t. Look closely",
+      "url": "https://psyche.co/ideas/your-daydreams-know-something-you-dont-look-closely",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "Population tool: How will populations across the world change in the 21st century?",
+      "url": "https://ourworldindata.org/population-simulation-tool",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "How to talk to someone who has dementia",
+      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-17",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223"
-    },
     {
       "date": "2026-06-18",
       "title": "How opinions and use of AI differ by age",
@@ -461,6 +395,11 @@
       "date": "2026-06-23",
       "title": "Andy Burnham: what to expect from the UK’s likely next prime minister",
       "url": "https://theconversation.com/andy-burnham-what-to-expect-from-the-uks-likely-next-prime-minister-285750"
+    },
+    {
+      "date": "2026-06-24",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
     }
   ]
 }
