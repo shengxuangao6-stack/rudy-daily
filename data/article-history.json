@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-18",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Donald Trump and Benjamin Netanyahu have different war aims – can the Iran peace deal survive?",
-      "url": "https://theconversation.com/donald-trump-and-benjamin-netanyahu-have-different-war-aims-can-the-iran-peace-deal-survive-285402",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Worried about your child’s sleep? Keep screens out of bedrooms and limit iPads before bed",
-      "url": "https://theconversation.com/worried-about-your-childs-sleep-keep-screens-out-of-bedrooms-and-limit-ipads-before-bed-285057",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Life recombined",
-      "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Is U.S. fertility at an all-time low? It depends how you measure it",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/17/is-us-fertility-at-an-all-time-low-it-depends-how-you-measure-it/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "How needing others became a source of shame for Americans",
-      "url": "https://psyche.co/ideas/how-needing-others-became-a-source-of-shame-for-americans",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-18",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-06-19",
       "title": "Why the electric SUV boom is a problem for climate, health and equity",
       "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262",
@@ -363,14 +314,58 @@
       "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "For countries contesting the FIFA World Cup, size doesn’t always mean goals and glory",
+      "url": "https://theconversation.com/for-countries-contesting-the-fifa-world-cup-size-doesnt-always-mean-goals-and-glory-285150",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "How needing others became a source of shame for Americans",
+      "url": "https://psyche.co/ideas/how-needing-others-became-a-source-of-shame-for-americans",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Toy Story 5 pits traditional toys vs a tablet. In real life, families can combine the two",
+      "url": "https://theconversation.com/toy-story-5-pits-traditional-toys-vs-a-tablet-in-real-life-families-can-combine-the-two-284938",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "Battery costs have declined by 99% in the last three decades, making electrified transport a reality",
+      "url": "https://ourworldindata.org/battery-price-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-18",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
-    },
     {
       "date": "2026-06-19",
       "title": "Why the electric SUV boom is a problem for climate, health and equity",
@@ -400,6 +395,11 @@
       "date": "2026-06-24",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
+    },
+    {
+      "date": "2026-06-25",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
     }
   ]
 }
