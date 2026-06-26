@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-19",
-      "title": "Why the electric SUV boom is a problem for climate, health and equity",
-      "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "India’s youth-led Cockroach party may prove as hard to kill as its namesake",
-      "url": "https://theconversation.com/indias-youth-led-cockroach-party-may-prove-as-hard-to-kill-as-its-namesake-285156",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "How working parents divide family responsibilities",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "The city that rewired my brain",
-      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-19",
-      "title": "The marks we leave each day",
-      "url": "https://psyche.co/notes-to-self/what-if-we-could-see-the-marks-we-leave-throughout-the-day",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-06-20",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
@@ -363,14 +314,65 @@
       "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
       "source": "Pew Research Center",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "What do Americans think AI is?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Does working from home make work-family balance easier?",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Does the World Cup favor democratic or autocratic nations? I did some number crunching to find out",
+      "url": "https://theconversation.com/does-the-world-cup-favor-democratic-or-autocratic-nations-i-did-some-number-crunching-to-find-out-285338",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "India’s youth-led Cockroach party may prove as hard to kill as its namesake",
+      "url": "https://theconversation.com/indias-youth-led-cockroach-party-may-prove-as-hard-to-kill-as-its-namesake-285156",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Pierre Bourdieu: habitus",
+      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "The thinking style that makes people vulnerable to extremism",
+      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "Repositioning retail for the AI era",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "The violence specialists",
+      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+      "source": "Aeon",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-19",
-      "title": "Why the electric SUV boom is a problem for climate, health and equity",
-      "url": "https://theconversation.com/why-the-electric-suv-boom-is-a-problem-for-climate-health-and-equity-284262"
-    },
     {
       "date": "2026-06-20",
       "title": "Racial and ethnic differences in how adults use and view AI",
@@ -400,6 +402,11 @@
       "date": "2026-06-25",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
+    },
+    {
+      "date": "2026-06-26",
+      "title": "What do Americans think AI is?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/"
     }
   ]
 }
