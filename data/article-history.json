@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-20",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "How a Swedish king went on strike in 1768",
-      "url": "https://theconversation.com/how-a-swedish-king-went-on-strike-in-1768-281196",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "How family work arrangements have changed over time",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
-      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "How to do less for your children",
-      "url": "https://psyche.co/guides/how-to-do-less-for-your-children",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-20",
-      "title": "What came knocking",
-      "url": "https://psyche.co/turning-points/our-dog-died-then-i-started-noticing-the-odd-sounds",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-06-21",
       "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
       "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597",
@@ -370,14 +321,58 @@
       "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
       "source": "Aeon",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
+      "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "How working parents divide family responsibilities",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
+      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "What moments of insight have in common",
+      "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-20",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
-    },
     {
       "date": "2026-06-21",
       "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
@@ -407,6 +402,11 @@
       "date": "2026-06-26",
       "title": "What do Americans think AI is?",
       "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/"
+    },
+    {
+      "date": "2026-06-27",
+      "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
+      "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851"
     }
   ]
 }
