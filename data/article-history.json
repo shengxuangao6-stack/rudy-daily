@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-21",
-      "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
-      "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Does the body really ‘keep the score’ after trauma? How the debunked idea of ‘repressed memories’ is making a comeback",
-      "url": "https://theconversation.com/does-the-body-really-keep-the-score-after-trauma-how-the-debunked-idea-of-repressed-memories-is-making-a-comeback-279112",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "A vocabulary for the future: poetry",
-      "url": "https://psyche.co/videos/a-writer-sets-out-to-clarify-what-is-and-what-is-not-poetry",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Beyond Red vs. Blue: The Political Typology",
-      "url": "https://www.pewresearch.org/politics/2026/06/10/beyond-red-vs-blue-the-political-typology/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Seeing grief for what it is",
-      "url": "https://psyche.co/notes-to-self/to-live-with-grief-requires-seeing-it-for-what-it-is",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-21",
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-06-23",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
@@ -370,14 +321,65 @@
       "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
+      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "World Cup: why are left-footers like Messi so valuable in soccer?",
+      "url": "https://theconversation.com/world-cup-why-are-left-footers-like-messi-so-valuable-in-soccer-285482",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "What happens when war breaks out in the middle of a survey?",
+      "url": "https://www.pewresearch.org/decoded/2026/06/23/what-happens-when-war-breaks-out-in-the-middle-of-a-survey/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "How family work arrangements have changed over time",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "A vocabulary for the future: poetry",
+      "url": "https://psyche.co/videos/a-writer-sets-out-to-clarify-what-is-and-what-is-not-poetry",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "What Europe’s heat wave means for the power grid",
+      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "The city that rewired my brain",
+      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Who are the fire-tamers?",
+      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-21",
-      "title": "What’s in the US-Iran peace deal? A lot of concessions and empty promises from Trump, in return for little",
-      "url": "https://theconversation.com/whats-in-the-us-iran-peace-deal-a-lot-of-concessions-and-empty-promises-from-trump-in-return-for-little-285597"
-    },
     {
       "date": "2026-06-23",
       "title": "Five million children die every year — what do they die from?",
@@ -407,6 +409,11 @@
       "date": "2026-06-27",
       "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
       "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851"
+    },
+    {
+      "date": "2026-06-28",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
+      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223"
     }
   ]
 }
