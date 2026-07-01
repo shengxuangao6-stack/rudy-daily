@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-24",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "Earth’s oldest crater really is over 3 billion years old, new study confirms",
-      "url": "https://theconversation.com/earths-oldest-crater-really-is-over-3-billion-years-old-new-study-confirms-283696",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "Trump’s upgrade of the Lincoln Memorial Reflecting Pool has become a disaster. Why is it causing so much outrage?",
-      "url": "https://theconversation.com/trumps-upgrade-of-the-lincoln-memorial-reflecting-pool-has-become-a-disaster-why-is-it-causing-so-much-outrage-285945",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "Your daydreams know something you don’t. Look closely",
-      "url": "https://psyche.co/ideas/your-daydreams-know-something-you-dont-look-closely",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "This flying solar-powered platform could deliver better internet from the air",
-      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-24",
-      "title": "How to talk to someone who has dementia",
-      "url": "https://psyche.co/guides/how-to-talk-to-someone-who-has-dementia",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-06-25",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
@@ -377,14 +321,65 @@
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Why older people are happier and what we can learn from them",
+      "url": "https://psyche.co/ideas/why-older-people-are-happier-and-what-we-can-learn-from-them",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Earth’s oldest crater really is over 3 billion years old, new study confirms",
+      "url": "https://theconversation.com/earths-oldest-crater-really-is-over-3-billion-years-old-new-study-confirms-283696",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "How Messi, Mbappe and Haaland use their brains (as well as feet) to gain a psychological edge at the World Cup",
+      "url": "https://theconversation.com/how-messi-mbappe-and-haaland-use-their-brains-as-well-as-feet-to-gain-a-psychological-edge-at-the-world-cup-283672",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Tips and tools for navigating hearing loss",
+      "url": "https://psyche.co/guides/tips-and-tools-for-navigating-hearing-loss",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-24",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
-    },
     {
       "date": "2026-06-25",
       "title": "How opinions and use of AI differ by age",
@@ -414,6 +409,11 @@
       "date": "2026-06-30",
       "title": "How the US Supreme Court decides its cases – a step-by-step guide",
       "url": "https://theconversation.com/how-the-us-supreme-court-decides-its-cases-a-step-by-step-guide-285892"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
     }
   ]
 }
