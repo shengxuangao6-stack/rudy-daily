@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-26",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "Does working from home make work-family balance easier?",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "Does the World Cup favor democratic or autocratic nations? I did some number crunching to find out",
-      "url": "https://theconversation.com/does-the-world-cup-favor-democratic-or-autocratic-nations-i-did-some-number-crunching-to-find-out-285338",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "India’s youth-led Cockroach party may prove as hard to kill as its namesake",
-      "url": "https://theconversation.com/indias-youth-led-cockroach-party-may-prove-as-hard-to-kill-as-its-namesake-285156",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "Pierre Bourdieu: habitus",
-      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "The thinking style that makes people vulnerable to extremism",
-      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "Repositioning retail for the AI era",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-26",
-      "title": "The violence specialists",
-      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-06-27",
       "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
       "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
+      "url": "https://theconversation.com/messi-is-old-short-and-slow-how-is-he-still-dominating-at-the-world-cup-286238",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
+      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "We should study the history of emotions",
+      "url": "https://psyche.co/notes-to-self/critics-of-the-history-of-emotions-are-missing-the-point",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "What do Americans think AI is?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Does working from home make work-family balance easier?",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Mary McLeod Bethune reminds us: education must be fought for",
+      "url": "https://psyche.co/ideas/mary-mcleod-bethune-reminds-us-education-must-be-fought-for",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Teaching AI to run with the turbines",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-26",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/"
-    },
     {
       "date": "2026-06-27",
       "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
@@ -421,6 +416,11 @@
       "date": "2026-07-02",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
+    },
+    {
+      "date": "2026-07-03",
+      "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
+      "url": "https://theconversation.com/messi-is-old-short-and-slow-how-is-he-still-dominating-at-the-world-cup-286238"
     }
   ]
 }
