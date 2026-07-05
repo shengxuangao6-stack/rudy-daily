@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-28",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "World Cup: why are left-footers like Messi so valuable in soccer?",
-      "url": "https://theconversation.com/world-cup-why-are-left-footers-like-messi-so-valuable-in-soccer-285482",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "What happens when war breaks out in the middle of a survey?",
-      "url": "https://www.pewresearch.org/decoded/2026/06/23/what-happens-when-war-breaks-out-in-the-middle-of-a-survey/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "How family work arrangements have changed over time",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "A vocabulary for the future: poetry",
-      "url": "https://psyche.co/videos/a-writer-sets-out-to-clarify-what-is-and-what-is-not-poetry",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "What Europe’s heat wave means for the power grid",
-      "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "The city that rewired my brain",
-      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-28",
-      "title": "Who are the fire-tamers?",
-      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-06-29",
       "title": "How ‘catchy’ music is driven by rhythmic patterns",
       "url": "https://theconversation.com/how-catchy-music-is-driven-by-rhythmic-patterns-282540",
@@ -391,14 +335,65 @@
       "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "How family work arrangements have changed over time",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Five hidden pitfalls of fitness tracking",
+      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
+      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Pierre Bourdieu: habitus",
+      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "The thinking style that makes people vulnerable to extremism",
+      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-28",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223"
-    },
     {
       "date": "2026-06-29",
       "title": "How ‘catchy’ music is driven by rhythmic patterns",
@@ -428,6 +423,11 @@
       "date": "2026-07-04",
       "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
       "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851"
+    },
+    {
+      "date": "2026-07-05",
+      "title": "How family work arrangements have changed over time",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/"
     }
   ]
 }
