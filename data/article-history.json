@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-29",
-      "title": "How ‘catchy’ music is driven by rhythmic patterns",
-      "url": "https://theconversation.com/how-catchy-music-is-driven-by-rhythmic-patterns-282540",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "Getting Murdoched is a fascinating study of the Murdoch media’s bullying tactics",
-      "url": "https://theconversation.com/getting-murdoched-is-a-fascinating-study-of-the-murdoch-medias-bullying-tactics-285138",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "Trump Gets Negative Reviews Internationally as Fewer Say U.S. Is a Reliable Partner",
-      "url": "https://www.pewresearch.org/global/2026/06/23/trump-gets-negative-reviews-internationally-as-fewer-say-u-s-is-a-reliable-partner/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "How to deal with relationship OCD",
-      "url": "https://psyche.co/guides/how-to-deal-with-relationship-ocd",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-29",
-      "title": "How to do less for your children",
-      "url": "https://psyche.co/guides/how-to-do-less-for-your-children",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-06-30",
       "title": "How the US Supreme Court decides its cases – a step-by-step guide",
       "url": "https://theconversation.com/how-the-us-supreme-court-decides-its-cases-a-step-by-step-guide-285892",
@@ -391,14 +335,65 @@
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Reading Homer’s Iliad feels like scrolling through TikTok",
+      "url": "https://theconversation.com/reading-homers-iliad-feels-like-scrolling-through-tiktok-279902",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Friday essay: how the Murdoch media’s loyalty to Israel births hypocrisy, attacks and ‘failed journalism’",
+      "url": "https://theconversation.com/friday-essay-how-the-murdoch-medias-loyalty-to-israel-births-hypocrisy-attacks-and-failed-journalism-283065",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "The violence specialists",
+      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+      "source": "Aeon",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "What moments of insight have in common",
+      "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "Majority of Americans support banning social media for kids under 16",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "The city that rewired my brain",
+      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
+      "source": "Psyche",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-29",
-      "title": "How ‘catchy’ music is driven by rhythmic patterns",
-      "url": "https://theconversation.com/how-catchy-music-is-driven-by-rhythmic-patterns-282540"
-    },
     {
       "date": "2026-06-30",
       "title": "How the US Supreme Court decides its cases – a step-by-step guide",
@@ -428,6 +423,11 @@
       "date": "2026-07-05",
       "title": "How family work arrangements have changed over time",
       "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/"
+    },
+    {
+      "date": "2026-07-06",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world"
     }
   ]
 }
