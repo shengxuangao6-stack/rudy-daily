@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-06-30",
-      "title": "How the US Supreme Court decides its cases – a step-by-step guide",
-      "url": "https://theconversation.com/how-the-us-supreme-court-decides-its-cases-a-step-by-step-guide-285892",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Why you should talk to your dead ancestors",
-      "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Love life: David Hockney, the artist who forced Britain to make room for colour, joy and queerness",
-      "url": "https://theconversation.com/love-life-david-hockney-the-artist-who-forced-britain-to-make-room-for-colour-joy-and-queerness-285231",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Building tech in the world’s secret R&D hub",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "The marks we leave each day",
-      "url": "https://psyche.co/notes-to-self/what-if-we-could-see-the-marks-we-leave-throughout-the-day",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Who do Americans think is going to win the World Cup?",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/02/who-do-americans-think-is-going-to-win-the-world-cup/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Agent confidence on the technical frontier",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-06-30",
-      "title": "Five million children die every year — what do they die from?",
-      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-07-01",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
@@ -391,14 +335,65 @@
       "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
       "source": "Psyche",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
+      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Why you should talk to your dead ancestors",
+      "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "With the World Cup in full swing, why have the geopolitical criticisms quietened?",
+      "url": "https://theconversation.com/with-the-world-cup-in-full-swing-why-have-the-geopolitical-criticisms-quietened-286255",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "What happens when war breaks out in the middle of a survey?",
+      "url": "https://www.pewresearch.org/decoded/2026/06/23/what-happens-when-war-breaks-out-in-the-middle-of-a-survey/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Same art, different name: would you see or hear it the same way?",
+      "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Noguchi’s New York animations",
+      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-06-30",
-      "title": "How the US Supreme Court decides its cases – a step-by-step guide",
-      "url": "https://theconversation.com/how-the-us-supreme-court-decides-its-cases-a-step-by-step-guide-285892"
-    },
     {
       "date": "2026-07-01",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
@@ -428,6 +423,11 @@
       "date": "2026-07-06",
       "title": "How does food get traded around the world?",
       "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world"
+    },
+    {
+      "date": "2026-07-07",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
     }
   ]
 }
