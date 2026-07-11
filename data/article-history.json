@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-04",
-      "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
-      "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "How working parents divide family responsibilities",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
-      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "Who do you think you are? There are two answers",
-      "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "The film that attacks you",
-      "url": "https://psyche.co/videos/the-groundbreaking-film-that-rejected-plot-to-embrace-the-irrational",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-04",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-07-05",
       "title": "How family work arrangements have changed over time",
       "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
@@ -391,14 +335,65 @@
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "South Sudan at 15: how the political elite have found a way to profit from peace as well as war",
+      "url": "https://theconversation.com/south-sudan-at-15-how-the-political-elite-have-found-a-way-to-profit-from-peace-as-well-as-war-285846",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
+      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "The film that attacks you",
+      "url": "https://psyche.co/videos/the-groundbreaking-film-that-rejected-plot-to-embrace-the-irrational",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Four nuclear reactors hit a big milestone in the US",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Sperm donors need limits, says a European fertility group",
+      "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "How to offset your brain",
+      "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-04",
-      "title": "Why a development project linked to Donald Trump’s son-in-law has rocked Albania",
-      "url": "https://theconversation.com/why-a-development-project-linked-to-donald-trumps-son-in-law-has-rocked-albania-285851"
-    },
     {
       "date": "2026-07-05",
       "title": "How family work arrangements have changed over time",
@@ -428,6 +423,11 @@
       "date": "2026-07-10",
       "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
       "url": "https://theconversation.com/messi-is-old-short-and-slow-how-is-he-still-dominating-at-the-world-cup-286238"
+    },
+    {
+      "date": "2026-07-11",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
     }
   ]
 }
