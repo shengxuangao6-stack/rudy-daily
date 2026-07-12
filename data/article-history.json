@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-05",
-      "title": "How family work arrangements have changed over time",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Five hidden pitfalls of fitness tracking",
-      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
-      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Achieving operational excellence with AI",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Pierre Bourdieu: habitus",
-      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "The thinking style that makes people vulnerable to extremism",
-      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "5 facts about religion in the Philippines",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-05",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-07-06",
       "title": "How does food get traded around the world?",
       "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
@@ -391,14 +335,51 @@
       "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Being lonely taught me how to be me",
+      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
+      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "30 years since Dolly the sheep was born, where is cloning technology at now?",
+      "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Does working from home make work-family balance easier?",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Who do you think you are? There are two answers",
+      "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
+      "source": "Psyche",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-05",
-      "title": "How family work arrangements have changed over time",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/"
-    },
     {
       "date": "2026-07-06",
       "title": "How does food get traded around the world?",
@@ -428,6 +409,11 @@
       "date": "2026-07-11",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
+    },
+    {
+      "date": "2026-07-12",
+      "title": "Being lonely taught me how to be me",
+      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone"
     }
   ]
 }
