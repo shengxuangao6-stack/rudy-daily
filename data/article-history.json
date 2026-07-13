@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-06",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Reading Homer’s Iliad feels like scrolling through TikTok",
-      "url": "https://theconversation.com/reading-homers-iliad-feels-like-scrolling-through-tiktok-279902",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Friday essay: how the Murdoch media’s loyalty to Israel births hypocrisy, attacks and ‘failed journalism’",
-      "url": "https://theconversation.com/friday-essay-how-the-murdoch-medias-loyalty-to-israel-births-hypocrisy-attacks-and-failed-journalism-283065",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "The violence specialists",
-      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "What moments of insight have in common",
-      "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Majority of Americans support banning social media for kids under 16",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-06",
-      "title": "The city that rewired my brain",
-      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-07-07",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
@@ -377,14 +321,58 @@
       "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
       "source": "Psyche",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "How working parents divide family responsibilities",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Five hidden pitfalls of fitness tracking",
+      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
+      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Majority of Americans support banning social media for kids under 16",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "Pierre Bourdieu: habitus",
+      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "The thinking style that makes people vulnerable to extremism",
+      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-06",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world"
-    },
     {
       "date": "2026-07-07",
       "title": "Five million children die every year — what do they die from?",
@@ -414,6 +402,11 @@
       "date": "2026-07-12",
       "title": "Being lonely taught me how to be me",
       "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "How working parents divide family responsibilities",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/"
     }
   ]
 }
