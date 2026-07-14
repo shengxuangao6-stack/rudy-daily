@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-07",
-      "title": "Five million children die every year — what do they die from?",
-      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Why the US government shut down Anthropic’s latest Claude AI model",
-      "url": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Why you should talk to your dead ancestors",
-      "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "With the World Cup in full swing, why have the geopolitical criticisms quietened?",
-      "url": "https://theconversation.com/with-the-world-cup-in-full-swing-why-have-the-geopolitical-criticisms-quietened-286255",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "What happens when war breaks out in the middle of a survey?",
-      "url": "https://www.pewresearch.org/decoded/2026/06/23/what-happens-when-war-breaks-out-in-the-middle-of-a-survey/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Same art, different name: would you see or hear it the same way?",
-      "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-07",
-      "title": "Noguchi’s New York animations",
-      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-08",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
@@ -370,14 +314,65 @@
       "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
       "source": "Our World in Data",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
+      "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Reading Homer’s Iliad feels like scrolling through TikTok",
+      "url": "https://theconversation.com/reading-homers-iliad-feels-like-scrolling-through-tiktok-279902",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Why don’t people use chatbots?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/why-dont-people-use-chatbots/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "Why you should talk to your dead ancestors",
+      "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "L A Paul on transformative experience",
+      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "How family work arrangements have changed over time",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-07",
-      "title": "Five million children die every year — what do they die from?",
-      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
-    },
     {
       "date": "2026-07-08",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
@@ -407,6 +402,11 @@
       "date": "2026-07-13",
       "title": "How working parents divide family responsibilities",
       "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/"
+    },
+    {
+      "date": "2026-07-14",
+      "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
+      "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963"
     }
   ]
 }
