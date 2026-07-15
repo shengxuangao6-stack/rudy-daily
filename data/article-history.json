@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-08",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "What the World Cup hydration breaks reveal about who governs men’s football",
-      "url": "https://theconversation.com/what-the-world-cup-hydration-breaks-reveal-about-who-governs-mens-football-286455",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "Earth’s oldest crater really is over 3 billion years old, new study confirms",
-      "url": "https://theconversation.com/earths-oldest-crater-really-is-over-3-billion-years-old-new-study-confirms-283696",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-08",
-      "title": "How to deal with relationship OCD",
-      "url": "https://psyche.co/guides/how-to-deal-with-relationship-ocd",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-07-09",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
@@ -370,14 +314,65 @@
       "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
       "source": "Pew Research Center",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
+      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "How ‘catchy’ music is driven by rhythmic patterns",
+      "url": "https://theconversation.com/how-catchy-music-is-driven-by-rhythmic-patterns-282540",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Patricia Evangelista on journalism",
+      "url": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-08",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
-    },
     {
       "date": "2026-07-09",
       "title": "How opinions and use of AI differ by age",
@@ -407,6 +402,11 @@
       "date": "2026-07-14",
       "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
       "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
     }
   ]
 }
