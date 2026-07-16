@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-09",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "The church fathers of early Christianity are showing their swag – on TikTok",
-      "url": "https://theconversation.com/the-church-fathers-of-early-christianity-are-showing-their-swag-on-tiktok-285999",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "How Trump’s call to FIFA tested the limits of rules-based order",
-      "url": "https://theconversation.com/how-trumps-call-to-fifa-tested-the-limits-of-rules-based-order-286938",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "Karl Hess: toward liberty",
-      "url": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "Timelapse of the Universe",
-      "url": "https://aeon.co/videos/the-13-billion-years-that-led-to-us-a-cosmological-timelapse",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-09",
-      "title": "Tips and tools for navigating hearing loss",
-      "url": "https://psyche.co/guides/tips-and-tools-for-navigating-hearing-loss",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-10",
       "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
       "url": "https://theconversation.com/messi-is-old-short-and-slow-how-is-he-still-dominating-at-the-world-cup-286238",
@@ -370,14 +314,65 @@
       "url": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "England out of the World Cup, but this team may have helped redefine a nation",
+      "url": "https://theconversation.com/england-out-of-the-world-cup-but-this-team-may-have-helped-redefine-a-nation-287602",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Population tool: How will populations across the world change in the 21st century?",
+      "url": "https://ourworldindata.org/population-simulation-tool",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "What draws well-meaning parents to authoritarian parenting?",
+      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "What Ghana’s World Cup ‘juju man’ tells us about sport and spirituality in Africa",
+      "url": "https://theconversation.com/what-ghanas-world-cup-juju-man-tells-us-about-sport-and-spirituality-in-africa-286109",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "The violence specialists",
+      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+      "source": "Aeon",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-09",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
-    },
     {
       "date": "2026-07-10",
       "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
@@ -407,6 +402,11 @@
       "date": "2026-07-15",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
+    },
+    {
+      "date": "2026-07-16",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
     }
   ]
 }
