@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-13",
-      "title": "How working parents divide family responsibilities",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Five hidden pitfalls of fitness tracking",
-      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
-      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Majority of Americans support banning social media for kids under 16",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "Pierre Bourdieu: habitus",
-      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "The thinking style that makes people vulnerable to extremism",
-      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-13",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-14",
       "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
       "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963",
@@ -384,14 +335,58 @@
       "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Does working from home make work-family balance easier?",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
+      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "South Sudan at 15: how the political elite have found a way to profit from peace as well as war",
+      "url": "https://theconversation.com/south-sudan-at-15-how-the-political-elite-have-found-a-way-to-profit-from-peace-as-well-as-war-285846",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "How working parents divide family responsibilities",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "Who do you think you are? There are two answers",
+      "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
+      "source": "Psyche",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-13",
-      "title": "How working parents divide family responsibilities",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/"
-    },
     {
       "date": "2026-07-14",
       "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
@@ -421,6 +416,11 @@
       "date": "2026-07-19",
       "title": "Being lonely taught me how to be me",
       "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone"
+    },
+    {
+      "date": "2026-07-20",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
     }
   ]
 }
