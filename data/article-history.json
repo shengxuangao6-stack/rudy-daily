@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-16",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "England out of the World Cup, but this team may have helped redefine a nation",
-      "url": "https://theconversation.com/england-out-of-the-world-cup-but-this-team-may-have-helped-redefine-a-nation-287602",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "What draws well-meaning parents to authoritarian parenting?",
-      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "What Ghana’s World Cup ‘juju man’ tells us about sport and spirituality in Africa",
-      "url": "https://theconversation.com/what-ghanas-world-cup-juju-man-tells-us-about-sport-and-spirituality-in-africa-286109",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-16",
-      "title": "The violence specialists",
-      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-07-17",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
@@ -377,14 +321,58 @@
       "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
       "source": "Pew Research Center",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
+      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "How ‘catchy’ music is driven by rhythmic patterns",
+      "url": "https://theconversation.com/how-catchy-music-is-driven-by-rhythmic-patterns-282540",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "Population tool: How will populations across the world change in the 21st century?",
+      "url": "https://ourworldindata.org/population-simulation-tool",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-16",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
-    },
     {
       "date": "2026-07-17",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
@@ -414,6 +402,11 @@
       "date": "2026-07-22",
       "title": "Car-free streets reduce noise and air pollution. More cities should have them",
       "url": "https://theconversation.com/car-free-streets-reduce-noise-and-air-pollution-more-cities-should-have-them-286112"
+    },
+    {
+      "date": "2026-07-23",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
     }
   ]
 }
