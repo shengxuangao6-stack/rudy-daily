@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-17",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Messi is old, short and slow. How is he still dominating at the World Cup?",
-      "url": "https://theconversation.com/messi-is-old-short-and-slow-how-is-he-still-dominating-at-the-world-cup-286238",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Why Prince Harry lost phone hacking case against Daily Mail publisher",
-      "url": "https://theconversation.com/why-prince-harry-lost-phone-hacking-case-against-daily-mail-publisher-286979",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "The looting of science fiction",
-      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "How to imagine a better future for yourself",
-      "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Tips and tools for navigating hearing loss",
-      "url": "https://psyche.co/guides/tips-and-tools-for-navigating-hearing-loss",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-17",
-      "title": "Why heat pumps are still so hot in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-07-18",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
@@ -370,14 +314,65 @@
       "url": "https://ourworldindata.org/population-simulation-tool",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Reading Homer’s Iliad feels like scrolling through TikTok",
+      "url": "https://theconversation.com/reading-homers-iliad-feels-like-scrolling-through-tiktok-279902",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "‘I can’t work in the farce of climate change cruise tourism anymore’: why Antarctic guides quit their dream jobs",
+      "url": "https://theconversation.com/i-cant-work-in-the-farce-of-climate-change-cruise-tourism-anymore-why-antarctic-guides-quit-their-dream-jobs-286216",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "How to imagine a better future for yourself",
+      "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "The looting of science fiction",
+      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+      "source": "Aeon",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "Don’t turn away from tragedy, but do witness intentionally",
+      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-17",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
-    },
     {
       "date": "2026-07-18",
       "title": "Racial and ethnic differences in how adults use and view AI",
@@ -407,6 +402,11 @@
       "date": "2026-07-23",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
+    },
+    {
+      "date": "2026-07-24",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
     }
   ]
 }
