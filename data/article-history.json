@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-18",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
-      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "World Cup VAR controversies show why human referees should decide where potential fouls begin",
-      "url": "https://theconversation.com/world-cup-var-controversies-show-why-human-referees-should-decide-where-potential-fouls-begin-287676",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "The many ways U.S. Hispanics describe their identity",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Karl Hess: toward liberty",
-      "url": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Jung’s archetypes are a mirror that shows who and what we are",
-      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "Portraits of another life: Lloyd Khan",
-      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-18",
-      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
-      "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-07-19",
       "title": "Being lonely taught me how to be me",
       "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
@@ -370,14 +314,65 @@
       "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
+      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "The power line that could reshape New York’s grid is hitting snags",
+      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Five hidden pitfalls of fitness tracking",
+      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "How to stop avoiding life",
+      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Portraits of another life: Lloyd Khan",
+      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "How much are people across the world paying for their carbon emissions?",
+      "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-18",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
-    },
     {
       "date": "2026-07-19",
       "title": "Being lonely taught me how to be me",
@@ -407,6 +402,11 @@
       "date": "2026-07-24",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
+    },
+    {
+      "date": "2026-07-25",
+      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
+      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686"
     }
   ]
 }
