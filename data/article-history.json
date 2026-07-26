@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-19",
-      "title": "Being lonely taught me how to be me",
-      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "30 years since Dolly the sheep was born, where is cloning technology at now?",
-      "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
-      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "The risk of weather data sabotage is rising",
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "How to rediscover the joy of drawing",
-      "url": "https://psyche.co/guides/how-to-rediscover-the-joy-of-drawing",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-19",
-      "title": "Noguchi’s New York animations",
-      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-20",
       "title": "How much energy do data centers and artificial intelligence use?",
       "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
@@ -370,14 +314,58 @@
       "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
+      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "What do Americans think AI is?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "How to become the person you want to be",
+      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "The World Cup was meant to be carbon-neutral. FIFA hasn’t released the figures, so we built a computer model to check",
+      "url": "https://theconversation.com/the-world-cup-was-meant-to-be-carbon-neutral-fifa-hasnt-released-the-figures-so-we-built-a-computer-model-to-check-283580",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "Being lonely taught me how to be me",
+      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "The quest to keep organs alive outside the body",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Technology Review",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-19",
-      "title": "Being lonely taught me how to be me",
-      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone"
-    },
     {
       "date": "2026-07-20",
       "title": "How much energy do data centers and artificial intelligence use?",
@@ -407,6 +395,11 @@
       "date": "2026-07-25",
       "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
       "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686"
+    },
+    {
+      "date": "2026-07-26",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
     }
   ]
 }
