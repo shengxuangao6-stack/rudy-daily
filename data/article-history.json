@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-20",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Does working from home make work-family balance easier?",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
-      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "South Sudan at 15: how the political elite have found a way to profit from peace as well as war",
-      "url": "https://theconversation.com/south-sudan-at-15-how-the-political-elite-have-found-a-way-to-profit-from-peace-as-well-as-war-285846",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "How working parents divide family responsibilities",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-working-parents-divide-family-responsibilities/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-20",
-      "title": "Who do you think you are? There are two answers",
-      "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-07-21",
       "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
       "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963",
@@ -363,14 +314,65 @@
       "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
       "source": "MIT Technology Review",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Jung’s archetypes are a mirror that shows who and what we are",
+      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
+      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "30 years since Dolly the sheep was born, where is cloning technology at now?",
+      "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Childhood stunting fell dramatically over the 20th century",
+      "url": "https://ourworldindata.org/childhood-stunting-fell-dramatically-over-the-20th-century",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "What draws well-meaning parents to authoritarian parenting?",
+      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-20",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
-    },
     {
       "date": "2026-07-21",
       "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
@@ -400,6 +402,11 @@
       "date": "2026-07-26",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
+    },
+    {
+      "date": "2026-07-27",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
     }
   ]
 }
