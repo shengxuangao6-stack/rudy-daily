@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-21",
-      "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
-      "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "How family work arrangements have changed over time",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-family-work-arrangements-have-changed-over-time/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "How Manchester created Manchesterism: from music and culture to political power",
-      "url": "https://theconversation.com/how-manchester-created-manchesterism-from-music-and-culture-to-political-power-284583",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "Majority of Americans support banning social media for kids under 16",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "The joy of falling down together",
-      "url": "https://psyche.co/notes-to-self/when-youre-in-sync-with-others-joy-is-shared",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-21",
-      "title": "L A Paul on transformative experience",
-      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-22",
       "title": "Car-free streets reduce noise and air pollution. More cities should have them",
       "url": "https://theconversation.com/car-free-streets-reduce-noise-and-air-pollution-more-cities-should-have-them-286112",
@@ -370,14 +321,65 @@
       "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
       "source": "Our World in Data",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "L A Paul on transformative experience",
+      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "How we measured Americans’ engagement in public life",
+      "url": "https://www.pewresearch.org/newsletter/campaign/how-we-measured-americans-engagement-in-public-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "Why some men seek refuge in ever bigger muscles",
+      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "The Commonwealth Games are here, with fewer sports, more nations and an uncertain future",
+      "url": "https://theconversation.com/the-commonwealth-games-are-here-with-fewer-sports-more-nations-and-an-uncertain-future-287484",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-21",
-      "title": "DRC has taken Rwanda to the world court over genocide again. A law scholar explains what’s different this time",
-      "url": "https://theconversation.com/drc-has-taken-rwanda-to-the-world-court-over-genocide-again-a-law-scholar-explains-whats-different-this-time-286963"
-    },
     {
       "date": "2026-07-22",
       "title": "Car-free streets reduce noise and air pollution. More cities should have them",
@@ -407,6 +409,11 @@
       "date": "2026-07-27",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
+    },
+    {
+      "date": "2026-07-28",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page"
     }
   ]
 }
