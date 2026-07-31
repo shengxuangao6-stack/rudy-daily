@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-24",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "5 facts about religion in the Philippines",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Reading Homer’s Iliad feels like scrolling through TikTok",
-      "url": "https://theconversation.com/reading-homers-iliad-feels-like-scrolling-through-tiktok-279902",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "‘I can’t work in the farce of climate change cruise tourism anymore’: why Antarctic guides quit their dream jobs",
-      "url": "https://theconversation.com/i-cant-work-in-the-farce-of-climate-change-cruise-tourism-anymore-why-antarctic-guides-quit-their-dream-jobs-286216",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "How to imagine a better future for yourself",
-      "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "The looting of science fiction",
-      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Don’t turn away from tragedy, but do witness intentionally",
-      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-07-25",
       "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
       "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
@@ -384,14 +328,65 @@
       "url": "https://theconversation.com/sargassum-the-smelly-nemesis-of-beach-vacations-has-become-a-self-sustaining-disaster-that-will-keep-coming-back-287444",
       "source": "The Conversation",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "What is Falun Gong and why does the Chinese Communist Party want to suppress it?",
+      "url": "https://theconversation.com/what-is-falun-gong-and-why-does-the-chinese-communist-party-want-to-suppress-it-286215",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Don’t turn away from tragedy, but do witness intentionally",
+      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "Hoarding: how it impacted my life",
+      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "‘I can’t work in the farce of climate change cruise tourism anymore’: why Antarctic guides quit their dream jobs",
+      "url": "https://theconversation.com/i-cant-work-in-the-farce-of-climate-change-cruise-tourism-anymore-why-antarctic-guides-quit-their-dream-jobs-286216",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "How art invented humanity",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-24",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
-    },
     {
       "date": "2026-07-25",
       "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
@@ -421,6 +416,11 @@
       "date": "2026-07-30",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "How opinions and use of AI differ by age",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
     }
   ]
 }
