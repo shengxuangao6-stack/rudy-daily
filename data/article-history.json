@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-25",
-      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
-      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "The many ways U.S. Hispanics describe their identity",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Five hidden pitfalls of fitness tracking",
-      "url": "https://theconversation.com/five-hidden-pitfalls-of-fitness-tracking-284892",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "How to stop avoiding life",
-      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Portraits of another life: Lloyd Khan",
-      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-25",
-      "title": "How much are people across the world paying for their carbon emissions?",
-      "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-07-26",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
+      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "What I found when I scanned the brains of kids creating tunes on the piano",
+      "url": "https://theconversation.com/what-i-found-when-i-scanned-the-brains-of-kids-creating-tunes-on-the-piano-287279",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "In praise of not-quite-friends",
+      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Americans and the 2026 midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "How to stop avoiding life",
+      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "In search of the northern cassowary",
+      "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-25",
-      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
-      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686"
-    },
     {
       "date": "2026-07-26",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
@@ -421,6 +416,11 @@
       "date": "2026-07-31",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
     }
   ]
 }
