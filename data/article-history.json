@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-26",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
-      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "How to become the person you want to be",
-      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "The World Cup was meant to be carbon-neutral. FIFA hasn’t released the figures, so we built a computer model to check",
-      "url": "https://theconversation.com/the-world-cup-was-meant-to-be-carbon-neutral-fifa-hasnt-released-the-figures-so-we-built-a-computer-model-to-check-283580",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "Being lonely taught me how to be me",
-      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-26",
-      "title": "The quest to keep organs alive outside the body",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-07-27",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
@@ -384,14 +335,65 @@
       "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Wildfires: why media coverage doesn’t always make the climate connection",
+      "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "What do Americans think AI is?",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "How to become the person you want to be",
+      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
+      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Montana’s new “right to try” law can’t come soon enough for some",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "What ancient art tells us about modern psychedelic medicine",
+      "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-26",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
-    },
     {
       "date": "2026-07-27",
       "title": "Racial and ethnic differences in how adults use and view AI",
@@ -421,6 +423,11 @@
       "date": "2026-08-01",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+    },
+    {
+      "date": "2026-08-02",
+      "title": "Wildfires: why media coverage doesn’t always make the climate connection",
+      "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409"
     }
   ]
 }
