@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-27",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Jung’s archetypes are a mirror that shows who and what we are",
-      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
-      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "30 years since Dolly the sheep was born, where is cloning technology at now?",
-      "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "Childhood stunting fell dramatically over the 20th century",
-      "url": "https://ourworldindata.org/childhood-stunting-fell-dramatically-over-the-20th-century",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "What draws well-meaning parents to authoritarian parenting?",
-      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-27",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-07-28",
       "title": "We have a new Urbanization topic page",
       "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
@@ -391,14 +335,65 @@
       "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
+      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Jung’s archetypes are a mirror that shows who and what we are",
+      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Cracking the code: can AI help us decipher ancient languages?",
+      "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "The looting of science fiction",
+      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+      "source": "Aeon",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "What draws well-meaning parents to authoritarian parenting?",
+      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-27",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
-    },
     {
       "date": "2026-07-28",
       "title": "We have a new Urbanization topic page",
@@ -428,6 +423,11 @@
       "date": "2026-08-02",
       "title": "Wildfires: why media coverage doesn’t always make the climate connection",
       "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Racial and ethnic differences in how adults use and view AI",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
     }
   ]
 }
