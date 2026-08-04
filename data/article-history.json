@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-28",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "L A Paul on transformative experience",
-      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "How we measured Americans’ engagement in public life",
-      "url": "https://www.pewresearch.org/newsletter/campaign/how-we-measured-americans-engagement-in-public-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "Why some men seek refuge in ever bigger muscles",
-      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "The Commonwealth Games are here, with fewer sports, more nations and an uncertain future",
-      "url": "https://theconversation.com/the-commonwealth-games-are-here-with-fewer-sports-more-nations-and-an-uncertain-future-287484",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-28",
-      "title": "How lasers could help provide fuel for nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-07-29",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
       "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
@@ -391,14 +335,65 @@
       "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Clickgate: what cricket cheating scandal reveals about the nebulous ‘spirit’ of the game",
+      "url": "https://theconversation.com/clickgate-what-cricket-cheating-scandal-reveals-about-the-nebulous-spirit-of-the-game-288828",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "How pigeon fanciers are helping scientists understand lung disease",
+      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Thucydides the perspicacious",
+      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+      "source": "Aeon",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-28",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page"
-    },
     {
       "date": "2026-07-29",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
@@ -428,6 +423,11 @@
       "date": "2026-08-03",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
     }
   ]
 }
