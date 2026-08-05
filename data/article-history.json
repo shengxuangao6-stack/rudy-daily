@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-29",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "The dog who waited for Odysseus: Argos reflects the deep human-animal bonds of ancient Greece",
-      "url": "https://theconversation.com/the-dog-who-waited-for-odysseus-argos-reflects-the-deep-human-animal-bonds-of-ancient-greece-288214",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Five million children die every year — what do they die from?",
-      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Patricia Evangelista on journalism",
-      "url": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "We published a new topic page on economic inequality",
-      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-29",
-      "title": "Does working from home make work-family balance easier?",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/does-working-from-home-make-work-family-balance-easier/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-07-30",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
@@ -391,14 +335,65 @@
       "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
       "source": "Aeon",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Regime Change might be 2026’s nonfiction bestseller. Here’s why it’s essential, chilling reading",
+      "url": "https://theconversation.com/regime-change-might-be-2026s-nonfiction-bestseller-heres-why-its-essential-chilling-reading-288382",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "We published a new topic page on economic inequality",
+      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Why we should learn to embrace the middlebrow",
+      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "We were there to be there",
+      "url": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-29",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
-    },
     {
       "date": "2026-07-30",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
@@ -428,6 +423,11 @@
       "date": "2026-08-04",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Five million children die every year — what do they die from?",
+      "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
     }
   ]
 }
