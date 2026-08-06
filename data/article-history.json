@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-30",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "How an overlooked geothermal plant got a second chance",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "How workplace benefits and flexibility shape parents’ ability to balance work and family",
-      "url": "https://www.pewresearch.org/social-trends/2026/06/16/how-workplace-benefits-and-flexibility-shape-parents-ability-to-balance-work-and-family/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?",
-      "url": "https://theconversation.com/frozen-fruit-and-canned-veg-are-cheap-but-are-they-as-healthy-as-fresh-food-281749",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "What we know about the typical Polymarket user",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-30",
-      "title": "Sargassum, the smelly nemesis of beach vacations, has become a self-sustaining disaster that will keep coming back",
-      "url": "https://theconversation.com/sargassum-the-smelly-nemesis-of-beach-vacations-has-become-a-self-sustaining-disaster-that-will-keep-coming-back-287444",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-07-31",
       "title": "How opinions and use of AI differ by age",
       "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
@@ -391,14 +335,65 @@
       "url": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
+      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Portraits of another life: Lloyd Khan",
+      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "You can love an AI but can it love you back? Philosophy has the answer",
+      "url": "https://theconversation.com/you-can-love-an-ai-but-can-it-love-you-back-philosophy-has-the-answer-287610",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Why some men seek refuge in ever bigger muscles",
+      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Towards an AI for Africa",
+      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
+      "source": "Aeon",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "Population tool: How will populations across the world change in the 21st century?",
+      "url": "https://ourworldindata.org/population-simulation-tool",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-30",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
-    },
     {
       "date": "2026-07-31",
       "title": "How opinions and use of AI differ by age",
@@ -428,6 +423,11 @@
       "date": "2026-08-05",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
+    },
+    {
+      "date": "2026-08-06",
+      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
+      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
     }
   ]
 }
