@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-07-31",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "source": "MIT Technology Review",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "What is Falun Gong and why does the Chinese Communist Party want to suppress it?",
-      "url": "https://theconversation.com/what-is-falun-gong-and-why-does-the-chinese-communist-party-want-to-suppress-it-286215",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Don’t turn away from tragedy, but do witness intentionally",
-      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "Hoarding: how it impacted my life",
-      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "‘I can’t work in the farce of climate change cruise tourism anymore’: why Antarctic guides quit their dream jobs",
-      "url": "https://theconversation.com/i-cant-work-in-the-farce-of-climate-change-cruise-tourism-anymore-why-antarctic-guides-quit-their-dream-jobs-286216",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-07-31",
-      "title": "How art invented humanity",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-01",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
@@ -391,14 +335,58 @@
       "url": "https://ourworldindata.org/population-simulation-tool",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "5 Bret Easton Ellis adaptations, ranked from worst to best",
+      "url": "https://theconversation.com/5-bret-easton-ellis-adaptations-ranked-from-worst-to-best-288206",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Don’t turn away from tragedy, but do witness intentionally",
+      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-07-31",
-      "title": "How opinions and use of AI differ by age",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/how-opinions-and-use-of-ai-differ-by-age/"
-    },
     {
       "date": "2026-08-01",
       "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -428,6 +416,11 @@
       "date": "2026-08-06",
       "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
       "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
+    },
+    {
+      "date": "2026-08-07",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
     }
   ]
 }
