@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-01",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
-      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "What I found when I scanned the brains of kids creating tunes on the piano",
-      "url": "https://theconversation.com/what-i-found-when-i-scanned-the-brains-of-kids-creating-tunes-on-the-piano-287279",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "In praise of not-quite-friends",
-      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Americans and the 2026 midterms",
-      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "How to stop avoiding life",
-      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "In search of the northern cassowary",
-      "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-01",
-      "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-08-02",
       "title": "Wildfires: why media coverage doesn’t always make the climate connection",
       "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409",
@@ -384,14 +328,65 @@
       "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Americans and the 2026 midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
+      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
+      "url": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "In praise of not-quite-friends",
+      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "How to stop avoiding life",
+      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "In search of the northern cassowary",
+      "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-01",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
-    },
     {
       "date": "2026-08-02",
       "title": "Wildfires: why media coverage doesn’t always make the climate connection",
@@ -421,6 +416,11 @@
       "date": "2026-08-07",
       "title": "Support grows for school cellphone bans",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
     }
   ]
 }
