@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-02",
-      "title": "Wildfires: why media coverage doesn’t always make the climate connection",
-      "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "The many ways U.S. Hispanics describe their identity",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "What do Americans think AI is?",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/what-do-americans-think-ai-is/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "How to become the person you want to be",
-      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "The rhythms that broke Bashir: how Sudan’s music shaped a revolution",
-      "url": "https://theconversation.com/the-rhythms-that-broke-bashir-how-sudans-music-shaped-a-revolution-284963",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "Montana’s new “right to try” law can’t come soon enough for some",
-      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-02",
-      "title": "What ancient art tells us about modern psychedelic medicine",
-      "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-03",
       "title": "Racial and ethnic differences in how adults use and view AI",
       "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "How Netflix’s ‘Little House on the Prairie’ expands the book and TV series for today",
+      "url": "https://theconversation.com/how-netflixs-little-house-on-the-prairie-expands-the-book-and-tv-series-for-today-288683",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
+      "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "How to become the person you want to be",
+      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "How to cultivate compassion",
+      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "Scripps announces digital restructure and layoffs",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/scripps-announces-digital-restructure-and-layoffs/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "What has driven deforestation in the 21st century?",
+      "url": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-02",
-      "title": "Wildfires: why media coverage doesn’t always make the climate connection",
-      "url": "https://theconversation.com/wildfires-why-media-coverage-doesnt-always-make-the-climate-connection-288409"
-    },
     {
       "date": "2026-08-03",
       "title": "Racial and ethnic differences in how adults use and view AI",
@@ -421,6 +416,11 @@
       "date": "2026-08-08",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+    },
+    {
+      "date": "2026-08-09",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change"
     }
   ]
 }
