@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-03",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Megalodon’s legendary life revealed by fossil rediscovery",
-      "url": "https://theconversation.com/megalodons-legendary-life-revealed-by-fossil-rediscovery-286375",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Jung’s archetypes are a mirror that shows who and what we are",
-      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "Cracking the code: can AI help us decipher ancient languages?",
-      "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "The looting of science fiction",
-      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-03",
-      "title": "What draws well-meaning parents to authoritarian parenting?",
-      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-04",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -384,14 +328,65 @@
       "url": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Cracking the code: can AI help us decipher ancient languages?",
+      "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "What ancient art tells us about modern psychedelic medicine",
+      "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "What BTS’ Grammy boycott tells us about the problem with ‘Asian pop’ as a label",
+      "url": "https://theconversation.com/what-bts-grammy-boycott-tells-us-about-the-problem-with-asian-pop-as-a-label-288966",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Majority of Americans support banning social media for kids under 16",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "138 million children are in child labor. What does this actually mean?",
+      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "How art invented humanity",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-03",
-      "title": "Racial and ethnic differences in how adults use and view AI",
-      "url": "https://www.pewresearch.org/internet/2026/06/17/racial-and-ethnic-differences-in-how-adults-use-and-view-ai/"
-    },
     {
       "date": "2026-08-04",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -421,6 +416,11 @@
       "date": "2026-08-09",
       "title": "How primary energy is measured has changed across our charts",
       "url": "https://ourworldindata.org/primary-energy-measurement-change"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
     }
   ]
 }
