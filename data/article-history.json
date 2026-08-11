@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-04",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Clickgate: what cricket cheating scandal reveals about the nebulous ‘spirit’ of the game",
-      "url": "https://theconversation.com/clickgate-what-cricket-cheating-scandal-reveals-about-the-nebulous-spirit-of-the-game-288828",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "What do Americans think about language learning in U.S. schools?",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "5 facts about religion in the Philippines",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Thucydides the perspicacious",
-      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-05",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from",
@@ -384,14 +328,65 @@
       "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
       "source": "Our World in Data",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "How pigeon fanciers are helping scientists understand lung disease",
+      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "What I found when I scanned the brains of kids creating tunes on the piano",
+      "url": "https://theconversation.com/what-i-found-when-i-scanned-the-brains-of-kids-creating-tunes-on-the-piano-287279",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "How Americans assess health information amid cyclospora outbreak",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/how-americans-assess-health-information-amid-cyclospora-outbreak/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "How to think like a Hegelian",
+      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Hoarding: how it impacted my life",
+      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-04",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-    },
     {
       "date": "2026-08-05",
       "title": "Five million children die every year — what do they die from?",
@@ -421,6 +416,11 @@
       "date": "2026-08-10",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page"
     }
   ]
 }
