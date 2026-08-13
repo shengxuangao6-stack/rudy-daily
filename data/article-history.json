@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-06",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
-      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Portraits of another life: Lloyd Khan",
-      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "What we know about the typical Polymarket user",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "You can love an AI but can it love you back? Philosophy has the answer",
-      "url": "https://theconversation.com/you-can-love-an-ai-but-can-it-love-you-back-philosophy-has-the-answer-287610",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Why some men seek refuge in ever bigger muscles",
-      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Towards an AI for Africa",
-      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
-      "source": "Aeon",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Population tool: How will populations across the world change in the 21st century?",
-      "url": "https://ourworldindata.org/population-simulation-tool",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-07",
       "title": "Support grows for school cellphone bans",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
@@ -384,14 +328,65 @@
       "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "source": "MIT Technology Review",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Clickgate: what cricket cheating scandal reveals about the nebulous ‘spirit’ of the game",
+      "url": "https://theconversation.com/clickgate-what-cricket-cheating-scandal-reveals-about-the-nebulous-spirit-of-the-game-288828",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "We published a new topic page on economic inequality",
+      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Why we should learn to embrace the middlebrow",
+      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Thucydides the perspicacious",
+      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+      "source": "Aeon",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-06",
-      "title": "South Korea’s population is set to shrink: what would it take to stop the decline?",
-      "url": "https://ourworldindata.org/south-koreas-population-is-set-to-shrink-what-would-it-take-to-stop-the-decline"
-    },
     {
       "date": "2026-08-07",
       "title": "Support grows for school cellphone bans",
@@ -421,6 +416,11 @@
       "date": "2026-08-12",
       "title": "Five million children die every year — what do they die from?",
       "url": "https://ourworldindata.org/five-million-children-die-every-year-what-do-they-die-from"
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
     }
   ]
 }
