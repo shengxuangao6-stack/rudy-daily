@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-07",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
-      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "5 Bret Easton Ellis adaptations, ranked from worst to best",
-      "url": "https://theconversation.com/5-bret-easton-ellis-adaptations-ranked-from-worst-to-best-288206",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
-      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-07",
-      "title": "Don’t turn away from tragedy, but do witness intentionally",
-      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-08",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
@@ -384,14 +335,65 @@
       "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
       "source": "Aeon",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
+      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "5 Bret Easton Ellis adaptations, ranked from worst to best",
+      "url": "https://theconversation.com/5-bret-easton-ellis-adaptations-ranked-from-worst-to-best-288206",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Writing letters is a spiritual practice for our age of speed",
+      "url": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-07",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
-    },
     {
       "date": "2026-08-08",
       "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -421,6 +423,11 @@
       "date": "2026-08-13",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
       "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
+    },
+    {
+      "date": "2026-08-14",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
     }
   ]
 }
