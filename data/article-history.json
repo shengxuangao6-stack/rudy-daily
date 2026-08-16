@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-09",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "How Netflix’s ‘Little House on the Prairie’ expands the book and TV series for today",
-      "url": "https://theconversation.com/how-netflixs-little-house-on-the-prairie-expands-the-book-and-tv-series-for-today-288683",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
-      "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "How to become the person you want to be",
-      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "How to cultivate compassion",
-      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "The many ways U.S. Hispanics describe their identity",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "Scripps announces digital restructure and layoffs",
-      "url": "https://www.pewresearch.org/newsletter/the-briefing/scripps-announces-digital-restructure-and-layoffs/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-09",
-      "title": "What has driven deforestation in the 21st century?",
-      "url": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-10",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
@@ -391,14 +335,65 @@
       "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "From Count Binface to AI Steve: why are we voting for joke candidates?",
+      "url": "https://theconversation.com/from-count-binface-to-ai-steve-why-are-we-voting-for-joke-candidates-289716",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
+      "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Building a practical path to post-quantum cryptography",
+      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Why some men seek refuge in ever bigger muscles",
+      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "How to cultivate compassion",
+      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-09",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change"
-    },
     {
       "date": "2026-08-10",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
@@ -428,6 +423,11 @@
       "date": "2026-08-15",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change"
     }
   ]
 }
