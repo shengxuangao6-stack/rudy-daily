@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-13",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "Clickgate: what cricket cheating scandal reveals about the nebulous ‘spirit’ of the game",
-      "url": "https://theconversation.com/clickgate-what-cricket-cheating-scandal-reveals-about-the-nebulous-spirit-of-the-game-288828",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "What we know about the typical Polymarket user",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "We published a new topic page on economic inequality",
-      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "Why we should learn to embrace the middlebrow",
-      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "5 facts about religion in the Philippines",
-      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-13",
-      "title": "Thucydides the perspicacious",
-      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-14",
       "title": "How kids feel about AI, in their own words",
       "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
@@ -391,14 +335,65 @@
       "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
       "source": "Our World in Data",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Arabic has four words for sadness. Philosophy explains why",
+      "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Burundi refugees talk about life in South Africa after their long journey: hope and heartbreak side by side",
+      "url": "https://theconversation.com/burundi-refugees-talk-about-life-in-south-africa-after-their-long-journey-hope-and-heartbreak-side-by-side-288774",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "We published a new topic page on economic inequality",
+      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Why we should learn to embrace the middlebrow",
+      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Child-monitoring apps might need a reboot",
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-13",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
-    },
     {
       "date": "2026-08-14",
       "title": "How kids feel about AI, in their own words",
@@ -428,6 +423,11 @@
       "date": "2026-08-19",
       "title": "We still don’t know how people are really using AI",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
     }
   ]
 }
