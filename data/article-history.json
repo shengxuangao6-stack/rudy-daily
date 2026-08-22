@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-15",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
-      "url": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "In praise of not-quite-friends",
-      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Americans and the 2026 midterms",
-      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Hummingbirds and pineapples: why this ancient relationship hits the evolutionary sweetspot",
-      "url": "https://theconversation.com/hummingbirds-and-pineapples-why-this-ancient-relationship-hits-the-evolutionary-sweetspot-286686",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "A portrait of Liliana Porter",
-      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-15",
-      "title": "How much are people across the world paying for their carbon emissions?",
-      "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-16",
       "title": "How primary energy is measured has changed across our charts",
       "url": "https://ourworldindata.org/primary-energy-measurement-change",
@@ -391,14 +335,65 @@
       "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
+      "url": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
+      "url": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "How to rediscover your purpose later in life",
+      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "What has driven deforestation in the 21st century?",
+      "url": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Everything is going to be fine",
+      "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-15",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
-    },
     {
       "date": "2026-08-16",
       "title": "How primary energy is measured has changed across our charts",
@@ -428,6 +423,11 @@
       "date": "2026-08-21",
       "title": "Support grows for school cellphone bans",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
     }
   ]
 }
