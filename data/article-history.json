@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-16",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "From Count Binface to AI Steve: why are we voting for joke candidates?",
-      "url": "https://theconversation.com/from-count-binface-to-ai-steve-why-are-we-voting-for-joke-candidates-289716",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
-      "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "The many ways U.S. Hispanics describe their identity",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "Why some men seek refuge in ever bigger muscles",
-      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "How to cultivate compassion",
-      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-16",
-      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-08-17",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
@@ -391,14 +335,65 @@
       "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "The many ways U.S. Hispanics describe their identity",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/the-many-ways-u-s-hispanics-describe-their-identity/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Americans and the 2026 midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Teenage Sex and Death at Camp Miasma: a queer slasher about trauma and desire",
+      "url": "https://theconversation.com/teenage-sex-and-death-at-camp-miasma-a-queer-slasher-about-trauma-and-desire-289654",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "How to cultivate compassion",
+      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "When AI designs a drug, who gets the credit?",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Don’t let nature slip out of reach",
+      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-16",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change"
-    },
     {
       "date": "2026-08-17",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
@@ -428,6 +423,11 @@
       "date": "2026-08-22",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514"
     }
   ]
 }
