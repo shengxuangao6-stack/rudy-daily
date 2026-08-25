@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-18",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "What I found when I scanned the brains of kids creating tunes on the piano",
-      "url": "https://theconversation.com/what-i-found-when-i-scanned-the-brains-of-kids-creating-tunes-on-the-piano-287279",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "What do Americans think about language learning in U.S. schools?",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "What happens when a kid’s robot best friend dies?",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "How to think like a Hegelian",
-      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-18",
-      "title": "Hoarding: how it impacted my life",
-      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-08-19",
       "title": "We still don’t know how people are really using AI",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -391,14 +335,65 @@
       "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
       "source": "Aeon",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "How pigeon fanciers are helping scientists understand lung disease",
+      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
+      "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "How South Koreans view their relationship with the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-18",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page"
-    },
     {
       "date": "2026-08-19",
       "title": "We still don’t know how people are really using AI",
@@ -428,6 +423,11 @@
       "date": "2026-08-24",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "How pigeon fanciers are helping scientists understand lung disease",
+      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270"
     }
   ]
 }
