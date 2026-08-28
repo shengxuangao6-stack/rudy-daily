@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-21",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
-      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "5 Bret Easton Ellis adaptations, ranked from worst to best",
-      "url": "https://theconversation.com/5-bret-easton-ellis-adaptations-ranked-from-worst-to-best-288206",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Writing letters is a spiritual practice for our age of speed",
-      "url": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Thucydides the perspicacious",
-      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
-      "source": "Aeon",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
-      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-08-22",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
@@ -391,14 +335,65 @@
       "url": "https://ourworldindata.org/the-rise-of-electoral-democracy",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Why Americans use AI chatbots for health",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ceuta crisis: anti-migrant ‘invasion’ rhetoric threatens Europe’s food supply and economy",
+      "url": "https://theconversation.com/ceuta-crisis-anti-migrant-invasion-rhetoric-threatens-europes-food-supply-and-economy-290350",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Writing letters is a spiritual practice for our age of speed",
+      "url": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Six months into the US-Iran war, will there be any accountability for potential war crimes?",
+      "url": "https://theconversation.com/six-months-into-the-us-iran-war-will-there-be-any-accountability-for-potential-war-crimes-289593",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "How much are people across the world paying for their carbon emissions?",
+      "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-21",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
-    },
     {
       "date": "2026-08-22",
       "title": "How Much of the Internet Is Written With AI?",
@@ -428,6 +423,11 @@
       "date": "2026-08-27",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
       "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Why Americans use AI chatbots for health",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
     }
   ]
 }
