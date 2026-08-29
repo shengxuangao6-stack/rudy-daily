@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-22",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
-      "url": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
-      "url": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "Dolphins and other lovers",
-      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "How to rediscover your purpose later in life",
-      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "What has driven deforestation in the 21st century?",
-      "url": "https://ourworldindata.org/what-has-driven-deforestation-in-the-21st-century",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-22",
-      "title": "Everything is going to be fine",
-      "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-23",
       "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
       "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
@@ -391,14 +335,58 @@
       "url": "https://ourworldindata.org/how-much-are-people-across-the-world-paying-for-their-carbon-emissions",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
+      "url": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
+      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "How to rediscover your purpose later in life",
+      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "How Indian Hindus and Muslims view their regional neighbors",
+      "url": "https://www.pewresearch.org/newsletter/religion-weekly/how-indian-hindus-and-muslims-view-their-regional-neighbors/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-22",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
-    },
     {
       "date": "2026-08-23",
       "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
@@ -428,6 +416,11 @@
       "date": "2026-08-28",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
     }
   ]
 }
