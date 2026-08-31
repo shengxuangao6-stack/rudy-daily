@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-24",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "What Luigi Mangione’s celebrity says about Gen Z",
-      "url": "https://theconversation.com/what-luigi-mangiones-celebrity-says-about-gen-z-289938",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "How Netflix’s ‘Little House on the Prairie’ expands the book and TV series for today",
-      "url": "https://theconversation.com/how-netflixs-little-house-on-the-prairie-expands-the-book-and-tv-series-for-today-288683",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "The next big thing in hydrogen could be underground",
-      "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "A second sexual revolution",
-      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "A portrait of Liliana Porter",
-      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Towards an AI for Africa",
-      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
-      "source": "Aeon",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-08-25",
       "title": "How pigeon fanciers are helping scientists understand lung disease",
       "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
@@ -384,14 +328,65 @@
       "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "A second sexual revolution",
+      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "How does food get traded around the world?",
+      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
+      "source": "Our World in Data",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "How Netflix’s ‘Little House on the Prairie’ expands the book and TV series for today",
+      "url": "https://theconversation.com/how-netflixs-little-house-on-the-prairie-expands-the-book-and-tv-series-for-today-288683",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Ratko Mladić is still viewed as a hero by many Bosnian Serbs. It’s a reminder how divided my country remains today",
+      "url": "https://theconversation.com/ratko-mladic-is-still-viewed-as-a-hero-by-many-bosnian-serbs-its-a-reminder-how-divided-my-country-remains-today-290713",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Don’t let nature slip out of reach",
+      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "A portrait of Liliana Porter",
+      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-24",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
-    },
     {
       "date": "2026-08-25",
       "title": "How pigeon fanciers are helping scientists understand lung disease",
@@ -421,6 +416,11 @@
       "date": "2026-08-30",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
     }
   ]
 }
