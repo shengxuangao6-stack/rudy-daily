@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-26",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "Would Ted Lasso be a good sports coach in real life?",
-      "url": "https://theconversation.com/would-ted-lasso-be-a-good-sports-coach-in-real-life-289220",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "Regime Change might be 2026’s nonfiction bestseller. Here’s why it’s essential, chilling reading",
-      "url": "https://theconversation.com/regime-change-might-be-2026s-nonfiction-bestseller-heres-why-its-essential-chilling-reading-288382",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
-      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "Most Americans are uncomfortable with transgender athletes on sports teams that don’t match their birth sex",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/11/most-americans-are-uncomfortable-with-transgender-athletes-on-sports-teams-that-dont-match-their-birth-sex/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "AgeLab research inspires an A I startup",
-      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-26",
-      "title": "How to think like a Hegelian",
-      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-08-27",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
       "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
@@ -384,14 +328,58 @@
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Why the rise in government debt is freaking out the bond market",
+      "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
+      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "How engineered microbes could help feed the world’s crops",
+      "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "source": "MIT Technology Review",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "The ‘robot Olympics’ were spectacular – but will this technology end up helping humans?",
+      "url": "https://theconversation.com/the-robot-olympics-were-spectacular-but-will-this-technology-end-up-helping-humans-290320",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "How South Koreans view their relationship with the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-26",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use"
-    },
     {
       "date": "2026-08-27",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
@@ -421,6 +409,11 @@
       "date": "2026-09-01",
       "title": "How pigeon fanciers are helping scientists understand lung disease",
       "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Why the rise in government debt is freaking out the bond market",
+      "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240"
     }
   ]
 }
