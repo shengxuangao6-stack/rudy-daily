@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-27",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "Latino immigrants and U.S.-born Latinos differ on how much their identity shapes their lives",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/latino-immigrants-and-u-s-born-latinos-differ-on-how-much-their-identity-shapes-their-lives/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "How the ‘backwoods Barbie’ Dolly Parton turned self-aware artifice into authentic artistry",
-      "url": "https://theconversation.com/how-the-backwoods-barbie-dolly-parton-turned-self-aware-artifice-into-authentic-artistry-290501",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "What we know about the typical Polymarket user",
-      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "We published a new topic page on economic inequality",
-      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "Arabic has four words for sadness. Philosophy explains why",
-      "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-27",
-      "title": "The rise of electoral democracy",
-      "url": "https://ourworldindata.org/the-rise-of-electoral-democracy",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-08-28",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
@@ -377,14 +321,65 @@
       "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "A landmark UN report says the world will overshoot the 1.5°C climate target. What happens now?",
+      "url": "https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Arabic has four words for sadness. Philosophy explains why",
+      "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "What the ‘American dream’ means to U.S. Latinos, in their own words",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/what-the-american-dream-means-to-u-s-latinos-in-their-own-words/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "138 million children are in child labor. What does this actually mean?",
+      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "How to think like a Hegelian",
+      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-27",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
-    },
     {
       "date": "2026-08-28",
       "title": "Why Americans use AI chatbots for health",
@@ -414,6 +409,11 @@
       "date": "2026-09-02",
       "title": "Why the rise in government debt is freaking out the bond market",
       "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
+      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
     }
   ]
 }
