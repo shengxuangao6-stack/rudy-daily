@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-29",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "We’re building a New York-sized city every month. That’s worrying for our climate",
-      "url": "https://theconversation.com/were-building-a-new-york-sized-city-every-month-thats-worrying-for-our-climate-289702",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "Chores or no chores? The economic psychology of giving kids pocket money",
-      "url": "https://theconversation.com/chores-or-no-chores-the-economic-psychology-of-giving-kids-pocket-money-286834",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "How to rediscover your purpose later in life",
-      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "How Indian Hindus and Muslims view their regional neighbors",
-      "url": "https://www.pewresearch.org/newsletter/religion-weekly/how-indian-hindus-and-muslims-view-their-regional-neighbors/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "Dolphins and other lovers",
-      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-29",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-08-30",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
@@ -377,14 +328,65 @@
       "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Bayeux tapestry: Matilda of Flanders – the woman who was instrumental to William the Conqueror’s success",
+      "url": "https://theconversation.com/bayeux-tapestry-matilda-of-flanders-the-woman-who-was-instrumental-to-william-the-conquerors-success-290570",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "How immigrant and U.S.-born Latinos see economic mobility and the American dream",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/how-immigrant-and-u-s-born-latinos-see-economic-mobility-and-the-american-dream/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "How to rediscover your purpose later in life",
+      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Making the AI-powered case for legacy modernization",
+      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Beef production in Brazil has been the largest driver of global deforestation in recent decades",
+      "url": "https://ourworldindata.org/beef-production-in-brazil-has-been-the-largest-driver-of-global-deforestation-in-recent-decades",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-29",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
-    },
     {
       "date": "2026-08-30",
       "title": "How Much of the Internet Is Written With AI?",
@@ -414,6 +416,11 @@
       "date": "2026-09-04",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Support grows for school cellphone bans",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
     }
   ]
 }
