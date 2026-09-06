@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-30",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Americans and the 2026 midterms",
-      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Teenage Sex and Death at Camp Miasma: a queer slasher about trauma and desire",
-      "url": "https://theconversation.com/teenage-sex-and-death-at-camp-miasma-a-queer-slasher-about-trauma-and-desire-289654",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Zed Beats: how home studios reinvented Zambian pop music and gave young people a voice",
-      "url": "https://theconversation.com/zed-beats-how-home-studios-reinvented-zambian-pop-music-and-gave-young-people-a-voice-288438",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "Everything is going to be fine",
-      "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "How to cultivate compassion",
-      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-08-31",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
@@ -384,14 +328,58 @@
       "url": "https://ourworldindata.org/beef-production-in-brazil-has-been-the-largest-driver-of-global-deforestation-in-recent-decades",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Journeying through Syria’s shattered cities as they move from war to peace",
+      "url": "https://theconversation.com/journeying-through-syrias-shattered-cities-as-they-move-from-war-to-peace-290106",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Teenage Sex and Death at Camp Miasma: a queer slasher about trauma and desire",
+      "url": "https://theconversation.com/teenage-sex-and-death-at-camp-miasma-a-queer-slasher-about-trauma-and-desire-289654",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "How to cultivate compassion",
+      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Americans and the 2026 midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-30",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
-    },
     {
       "date": "2026-08-31",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
@@ -421,6 +409,11 @@
       "date": "2026-09-05",
       "title": "Support grows for school cellphone bans",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
+    },
+    {
+      "date": "2026-09-06",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
     }
   ]
 }
