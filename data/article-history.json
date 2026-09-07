@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-08-31",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "A second sexual revolution",
-      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "How does food get traded around the world?",
-      "url": "https://ourworldindata.org/how-does-food-get-traded-around-the-world",
-      "source": "Our World in Data",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "How Netflix’s ‘Little House on the Prairie’ expands the book and TV series for today",
-      "url": "https://theconversation.com/how-netflixs-little-house-on-the-prairie-expands-the-book-and-tv-series-for-today-288683",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "Ratko Mladić is still viewed as a hero by many Bosnian Serbs. It’s a reminder how divided my country remains today",
-      "url": "https://theconversation.com/ratko-mladic-is-still-viewed-as-a-hero-by-many-bosnian-serbs-its-a-reminder-how-divided-my-country-remains-today-290713",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "Don’t let nature slip out of reach",
-      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "A portrait of Liliana Porter",
-      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-09-01",
       "title": "How pigeon fanciers are helping scientists understand lung disease",
       "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
@@ -377,14 +321,65 @@
       "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "A second sexual revolution",
+      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "The music that made Dolly Parton a global icon",
+      "url": "https://theconversation.com/the-music-that-made-dolly-parton-a-global-icon-290723",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "A record-shattering El Niño is almost here. Here’s what that means for the world’s weather",
+      "url": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Absence of presence and presence of absence",
+      "url": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "A portrait of Liliana Porter",
+      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-08-31",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
-    },
     {
       "date": "2026-09-01",
       "title": "How pigeon fanciers are helping scientists understand lung disease",
@@ -414,6 +409,11 @@
       "date": "2026-09-06",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
     }
   ]
 }
