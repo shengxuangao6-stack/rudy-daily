@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-01",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Russia is cutting off Ukraine’s grain exports again, threatening a critical harvest and global food security",
-      "url": "https://theconversation.com/russia-is-cutting-off-ukraines-grain-exports-again-threatening-a-critical-harvest-and-global-food-security-289718",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "What do Americans think about language learning in U.S. schools?",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "Sometimes, the road to virtue comes by way of vice",
-      "url": "https://psyche.co/ideas/sometimes-the-road-to-virtue-comes-by-way-of-vice",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "The Singapore strategies",
-      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-02",
       "title": "Why the rise in government debt is freaking out the bond market",
       "url": "https://theconversation.com/why-the-rise-in-government-debt-is-freaking-out-the-bond-market-290240",
@@ -377,14 +321,65 @@
       "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "We have a new Urbanization topic page",
+      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Decades after 9/11, toxic dust and PTSD may be accelerating brain aging among first responders",
+      "url": "https://theconversation.com/decades-after-9-11-toxic-dust-and-ptsd-may-be-accelerating-brain-aging-among-first-responders-289755",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "The Singapore strategies",
+      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Is it morally wrong to not take care of yourself?",
+      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-01",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270"
-    },
     {
       "date": "2026-09-02",
       "title": "Why the rise in government debt is freaking out the bond market",
@@ -414,6 +409,11 @@
       "date": "2026-09-07",
       "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
       "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514"
     }
   ]
 }
