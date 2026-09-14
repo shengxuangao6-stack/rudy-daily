@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-07",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "A second sexual revolution",
-      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "The music that made Dolly Parton a global icon",
-      "url": "https://theconversation.com/the-music-that-made-dolly-parton-a-global-icon-290723",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "A record-shattering El Niño is almost here. Here’s what that means for the world’s weather",
-      "url": "https://theconversation.com/a-record-shattering-el-nino-is-almost-here-heres-what-that-means-for-the-worlds-weather-291258",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "Absence of presence and presence of absence",
-      "url": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "A portrait of Liliana Porter",
-      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-08",
       "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
       "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
@@ -370,14 +314,58 @@
       "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Teenage Sex and Death at Camp Miasma: a queer slasher about trauma and desire",
+      "url": "https://theconversation.com/teenage-sex-and-death-at-camp-miasma-a-queer-slasher-about-trauma-and-desire-289654",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Meet the under-35s shaping the future of biotech",
+      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "We published a new topic page on economic inequality",
+      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-07",
-      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
-      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/"
-    },
     {
       "date": "2026-09-08",
       "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
@@ -407,6 +395,11 @@
       "date": "2026-09-13",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
     }
   ]
 }
