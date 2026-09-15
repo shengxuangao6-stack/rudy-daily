@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-08",
-      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
-      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "We have a new Urbanization topic page",
-      "url": "https://ourworldindata.org/we-have-a-new-urbanization-topic-page",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Decades after 9/11, toxic dust and PTSD may be accelerating brain aging among first responders",
-      "url": "https://theconversation.com/decades-after-9-11-toxic-dust-and-ptsd-may-be-accelerating-brain-aging-among-first-responders-289755",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "The Singapore strategies",
-      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "What do Americans think about language learning in U.S. schools?",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Is it morally wrong to not take care of yourself?",
-      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-09",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
       "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
@@ -363,14 +307,65 @@
       "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
+      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "How to uncover your blind spots",
+      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "The Singapore strategies",
+      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Is it morally wrong to not take care of yourself?",
+      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-08",
-      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
-      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514"
-    },
     {
       "date": "2026-09-09",
       "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
@@ -400,6 +395,11 @@
       "date": "2026-09-14",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
     }
   ]
 }
