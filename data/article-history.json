@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-09",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Satellite images show how penguins’ diets are changing in response to Antarctic climate change",
-      "url": "https://theconversation.com/satellite-images-show-how-penguins-diets-are-changing-in-response-to-antarctic-climate-change-289754",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Most Americans are uncomfortable with transgender athletes on sports teams that don’t match their birth sex",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/11/most-americans-are-uncomfortable-with-transgender-athletes-on-sports-teams-that-dont-match-their-birth-sex/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
-      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-10",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
       "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
@@ -363,14 +314,58 @@
       "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "New world map makes Africa look bigger: what’s the fuss about? Cartographers explain",
+      "url": "https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "How Iran draws citizens into political surveillance",
+      "url": "https://theconversation.com/how-iran-draws-citizens-into-political-surveillance-290099",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "How Americans view the relationship between the government and the news media",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-09",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
-    },
     {
       "date": "2026-09-10",
       "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
@@ -400,6 +395,11 @@
       "date": "2026-09-15",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
       "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
+    },
+    {
+      "date": "2026-09-16",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/"
     }
   ]
 }
