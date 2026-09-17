@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-10",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "How to be a word detective",
-      "url": "https://psyche.co/guides/how-to-be-a-word-detective",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "UK plan to sanction Israel’s illegal West Bank settlements is a historic shift in tone and policy",
-      "url": "https://theconversation.com/uk-plan-to-sanction-israels-illegal-west-bank-settlements-is-a-historic-shift-in-tone-and-policy-291577",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "How South Koreans view their relationship with the U.S.",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "What the ‘American dream’ means to U.S. Latinos, in their own words",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/what-the-american-dream-means-to-u-s-latinos-in-their-own-words/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "This founder is making cheaper, cleaner steel",
-      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "Lessons from Wyatt Earp country",
-      "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-11",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
@@ -363,14 +307,65 @@
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
       "source": "Pew Research Center",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
+      "url": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "How to be a word detective",
+      "url": "https://psyche.co/guides/how-to-be-a-word-detective",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
+      "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
+      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "What the ‘American dream’ means to U.S. Latinos, in their own words",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/what-the-american-dream-means-to-u-s-latinos-in-their-own-words/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Building the materials foundation for AI",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Is organic farming better for the environment than conventional farming?",
+      "url": "https://ourworldindata.org/is-organic-farming-better-for-the-environment-than-conventional-farming",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Lessons from Wyatt Earp country",
+      "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-10",
-      "title": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-      "url": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
-    },
     {
       "date": "2026-09-11",
       "title": "Why Americans use AI chatbots for health",
@@ -400,6 +395,11 @@
       "date": "2026-09-16",
       "title": "How Americans think about censorship of news in the U.S.",
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
+      "url": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070"
     }
   ]
 }
