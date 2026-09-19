@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-12",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "A landmark UN report says the world will overshoot the 1.5°C climate target. What happens now?",
-      "url": "https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "9/11 transformed our relationship with news – and laid the groundwork for today’s crisis of trust",
-      "url": "https://theconversation.com/9-11-transformed-our-relationship-with-news-and-laid-the-groundwork-for-todays-crisis-of-trust-289574",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "How to rediscover your purpose later in life",
-      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "Why women’s laughter has long been treated as a threat",
-      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-13",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
@@ -349,14 +293,65 @@
       "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
+      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Maxxing treats life as a problem when it’s a mystery",
+      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "138 million children are in child labor. What does this actually mean?",
+      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "How South Koreans view their relationship with the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "How to rediscover your purpose later in life",
+      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-12",
-      "title": "Support grows for school cellphone bans",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/support-grows-for-school-cellphone-bans/"
-    },
     {
       "date": "2026-09-13",
       "title": "How Much of the Internet Is Written With AI?",
@@ -386,6 +381,11 @@
       "date": "2026-09-18",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
+      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849"
     }
   ]
 }
