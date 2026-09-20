@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-13",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Journeying through Syria’s shattered cities as they move from war to peace",
-      "url": "https://theconversation.com/journeying-through-syrias-shattered-cities-as-they-move-from-war-to-peace-290106",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Bayeux tapestry: Matilda of Flanders – the woman who was instrumental to William the Conqueror’s success",
-      "url": "https://theconversation.com/bayeux-tapestry-matilda-of-flanders-the-woman-who-was-instrumental-to-william-the-conquerors-success-290570",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Americans and the 2026 midterms",
-      "url": "https://www.pewresearch.org/newsletter/politics/americans-and-the-2026-midterms/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-13",
-      "title": "Arabic has four words for sadness. Philosophy explains why",
-      "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-14",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
@@ -349,14 +307,51 @@
       "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Journeying through Syria’s shattered cities as they move from war to peace",
+      "url": "https://theconversation.com/journeying-through-syrias-shattered-cities-as-they-move-from-war-to-peace-290106",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Wendell Berry spent his life farming and writing – his legacy is an ethic of care for the natural world",
+      "url": "https://theconversation.com/wendell-berry-spent-his-life-farming-and-writing-his-legacy-is-an-ethic-of-care-for-the-natural-world-292047",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Where Americans view the limits of press freedom",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/where-americans-view-the-limits-of-press-freedom/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Why women’s laughter has long been treated as a threat",
+      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "How much energy do data centers and artificial intelligence use?",
+      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-13",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
-    },
     {
       "date": "2026-09-14",
       "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -386,6 +381,11 @@
       "date": "2026-09-19",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
       "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
     }
   ]
 }
