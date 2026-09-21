@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-14",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Teenage Sex and Death at Camp Miasma: a queer slasher about trauma and desire",
-      "url": "https://theconversation.com/teenage-sex-and-death-at-camp-miasma-a-queer-slasher-about-trauma-and-desire-289654",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Dolphins and other lovers",
-      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "We published a new topic page on economic inequality",
-      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-09-15",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
       "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
@@ -349,14 +300,51 @@
       "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
       "source": "Our World in Data",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Why AI consciousness could become the next great societal divide",
+      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Why strengthening ties with the Global South was a top priority for Putin’s recent diplomacy blitz",
+      "url": "https://theconversation.com/why-strengthening-ties-with-the-global-south-was-a-top-priority-for-putins-recent-diplomacy-blitz-290946",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Once upon a screen: explosive paradox",
+      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Who has heard or read a lot about AI, and how is awareness changing?",
+      "url": "https://www.pewresearch.org/global/2026/09/17/who-has-heard-or-read-a-lot-about-ai-and-how-is-awareness-changing/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "International views of the U.S. and its president are increasingly correlated",
+      "url": "https://www.pewresearch.org/decoded/2026/08/28/international-views-of-the-us-and-its-president-are-increasingly-correlated/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-14",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
-    },
     {
       "date": "2026-09-15",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
@@ -386,6 +374,11 @@
       "date": "2026-09-20",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Why AI consciousness could become the next great societal divide",
+      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886"
     }
   ]
 }
