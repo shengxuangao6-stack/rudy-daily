@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-15",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "What do Americans think about language learning in U.S. schools?",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Sam Altman says we’re ‘in the singularity’ with AI. Here’s why he’s wrong",
-      "url": "https://theconversation.com/sam-altman-says-were-in-the-singularity-with-ai-heres-why-hes-wrong-288514",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "How to uncover your blind spots",
-      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "The Singapore strategies",
-      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "Is it morally wrong to not take care of yourself?",
-      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-16",
       "title": "How Americans think about censorship of news in the U.S.",
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
@@ -342,14 +286,65 @@
       "url": "https://www.pewresearch.org/decoded/2026/08/28/international-views-of-the-us-and-its-president-are-increasingly-correlated/",
       "source": "Pew Research Center",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "How to uncover your blind spots",
+      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Forgotten Mozart notebook reveals how a young woman learned to compose",
+      "url": "https://theconversation.com/forgotten-mozart-notebook-reveals-how-a-young-woman-learned-to-compose-292028",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "What do young people around the world think about AI?",
+      "url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Is it morally wrong to not take care of yourself?",
+      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "The Singapore strategies",
+      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-15",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
-    },
     {
       "date": "2026-09-16",
       "title": "How Americans think about censorship of news in the U.S.",
@@ -379,6 +374,11 @@
       "date": "2026-09-21",
       "title": "Why AI consciousness could become the next great societal divide",
       "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
     }
   ]
 }
