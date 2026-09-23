@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-16",
-      "title": "How Americans think about censorship of news in the U.S.",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "New world map makes Africa look bigger: what’s the fuss about? Cartographers explain",
-      "url": "https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "How Iran draws citizens into political surveillance",
-      "url": "https://theconversation.com/how-iran-draws-citizens-into-political-surveillance-290099",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "How Americans view the relationship between the government and the news media",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-17",
       "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
       "url": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
@@ -342,14 +293,51 @@
       "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
       "source": "Pew Research Center",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "New world map makes Africa look bigger: what’s the fuss about? Cartographers explain",
+      "url": "https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "What does it mean to have relationship ambivalence?",
+      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-16",
-      "title": "How Americans think about censorship of news in the U.S.",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/"
-    },
     {
       "date": "2026-09-17",
       "title": "Rapid Houthi advances in Yemen pose massive strategic risks for Saudi Arabia in the Gulf",
@@ -379,6 +367,11 @@
       "date": "2026-09-22",
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
       "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
     }
   ]
 }
