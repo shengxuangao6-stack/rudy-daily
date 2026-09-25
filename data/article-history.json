@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-18",
-      "title": "Why Americans use AI chatbots for health",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Why Hispanic Americans are losing faith in the American Dream",
-      "url": "https://theconversation.com/why-hispanic-americans-are-losing-faith-in-the-american-dream-291775",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "How pigeon fanciers are helping scientists understand lung disease",
-      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Survey panels can make political party affiliation weighting easier",
-      "url": "https://www.pewresearch.org/methods/2026/09/16/survey-panels-can-make-political-party-affiliation-weighting-easier/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Why you should try living without free will for two weeks",
-      "url": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-19",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
       "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
@@ -335,14 +293,58 @@
       "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "source": "MIT Technology Review",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Why Americans use AI chatbots for health",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "A landmark UN report says the world will overshoot the 1.5°C climate target. What happens now?",
+      "url": "https://theconversation.com/a-landmark-un-report-says-the-world-will-overshoot-the-1-5-c-climate-target-what-happens-now-290818",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "How pigeon fanciers are helping scientists understand lung disease",
+      "url": "https://theconversation.com/how-pigeon-fanciers-are-helping-scientists-understand-lung-disease-287270",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "How the West was fun",
+      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Concerns about AI are especially widespread in high-income countries",
+      "url": "https://www.pewresearch.org/global/2026/09/17/concerns-about-ai-are-especially-widespread-in-high-income-countries/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "How to cope with the stress of anti-LGBTQ+ prejudice",
+      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-18",
-      "title": "Why Americans use AI chatbots for health",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
-    },
     {
       "date": "2026-09-19",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
@@ -372,6 +374,11 @@
       "date": "2026-09-24",
       "title": "How Americans view the relationship between the government and the news media",
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Why Americans use AI chatbots for health",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
     }
   ]
 }
