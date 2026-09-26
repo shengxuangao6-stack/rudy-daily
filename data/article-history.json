@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-19",
-      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
-      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
-      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Maxxing treats life as a problem when it’s a mystery",
-      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "How South Koreans view their relationship with the U.S.",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "How to rediscover your purpose later in life",
-      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-09-20",
       "title": "How Much of the Internet Is Written With AI?",
       "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
@@ -342,14 +286,65 @@
       "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Maps can be misleading – on purpose – and their story becomes history. The case of Ethiopia",
+      "url": "https://theconversation.com/maps-can-be-misleading-on-purpose-and-their-story-becomes-history-the-case-of-ethiopia-291675",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Physicists zoom into the birth of cosmic rainstorms with new CERN study",
+      "url": "https://theconversation.com/physicists-zoom-into-the-birth-of-cosmic-rainstorms-with-new-cern-study-280890",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
+      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "The way we talk to bots matters even if they aren’t conscious",
+      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "source": "Pew Research Center",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "138 million children are in child labor. What does this actually mean?",
+      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-19",
-      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
-      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849"
-    },
     {
       "date": "2026-09-20",
       "title": "How Much of the Internet Is Written With AI?",
@@ -379,6 +374,11 @@
       "date": "2026-09-25",
       "title": "Why Americans use AI chatbots for health",
       "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/why-americans-use-ai-chatbots-for-health/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Maps can be misleading – on purpose – and their story becomes history. The case of Ethiopia",
+      "url": "https://theconversation.com/maps-can-be-misleading-on-purpose-and-their-story-becomes-history-the-case-of-ethiopia-291675"
     }
   ]
 }
