@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-20",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Journeying through Syria’s shattered cities as they move from war to peace",
-      "url": "https://theconversation.com/journeying-through-syrias-shattered-cities-as-they-move-from-war-to-peace-290106",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Wendell Berry spent his life farming and writing – his legacy is an ethic of care for the natural world",
-      "url": "https://theconversation.com/wendell-berry-spent-his-life-farming-and-writing-his-legacy-is-an-ethic-of-care-for-the-natural-world-292047",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Where Americans view the limits of press freedom",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/where-americans-view-the-limits-of-press-freedom/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Why women’s laughter has long been treated as a threat",
-      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-21",
       "title": "Why AI consciousness could become the next great societal divide",
       "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
@@ -342,14 +300,65 @@
       "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "How South Koreans view their relationship with the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "How the emojis and fashion choices of Germany’s far-right supporters get around the ban on Nazi symbolism",
+      "url": "https://theconversation.com/how-the-emojis-and-fashion-choices-of-germanys-far-right-supporters-get-around-the-ban-on-nazi-symbolism-292140",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "DRC’s cobalt exports contain unreported uranium – our study estimates the global nuclear risk",
+      "url": "https://theconversation.com/drcs-cobalt-exports-contain-unreported-uranium-our-study-estimates-the-global-nuclear-risk-291107",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "We published a new topic page on economic inequality",
+      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Maxxing treats life as a problem when it’s a mystery",
+      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "AI is dominating the conversation at Climate Week",
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-20",
-      "title": "How Much of the Internet Is Written With AI?",
-      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/"
-    },
     {
       "date": "2026-09-21",
       "title": "Why AI consciousness could become the next great societal divide",
@@ -379,6 +388,11 @@
       "date": "2026-09-26",
       "title": "Maps can be misleading – on purpose – and their story becomes history. The case of Ethiopia",
       "url": "https://theconversation.com/maps-can-be-misleading-on-purpose-and-their-story-becomes-history-the-case-of-ethiopia-291675"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "How South Koreans view their relationship with the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/"
     }
   ]
 }
