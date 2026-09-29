@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-22",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "How to uncover your blind spots",
-      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Forgotten Mozart notebook reveals how a young woman learned to compose",
-      "url": "https://theconversation.com/forgotten-mozart-notebook-reveals-how-a-young-woman-learned-to-compose-292028",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "What do young people around the world think about AI?",
-      "url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Is it morally wrong to not take care of yourself?",
-      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "The Singapore strategies",
-      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
-      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-23",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
       "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
@@ -363,14 +307,65 @@
       "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Can he teach the teachers?",
+      "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "How high is current immigration to the United States in historical perspective?",
+      "url": "https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "How to uncover your blind spots",
+      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-22",
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
-    },
     {
       "date": "2026-09-23",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
@@ -400,6 +395,11 @@
       "date": "2026-09-28",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
       "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
     }
   ]
 }
