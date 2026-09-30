@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-23",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "New world map makes Africa look bigger: what’s the fuss about? Cartographers explain",
-      "url": "https://theconversation.com/new-world-map-makes-africa-look-bigger-whats-the-fuss-about-cartographers-explain-291691",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "How Americans think about censorship of news in the U.S.",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "What does it mean to have relationship ambivalence?",
-      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-09-24",
       "title": "How Americans view the relationship between the government and the news media",
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
@@ -363,14 +321,51 @@
       "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Chatbots as oracles: How AI is giving new life to the ancient practice of seeking answers from inscrutable sources",
+      "url": "https://theconversation.com/chatbots-as-oracles-how-ai-is-giving-new-life-to-the-ancient-practice-of-seeking-answers-from-inscrutable-sources-289279",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "When you feel moral disgust, what’s the emotion telling you?",
+      "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "What do young people around the world think about AI?",
+      "url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "What does it mean to have relationship ambivalence?",
+      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-23",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
-    },
     {
       "date": "2026-09-24",
       "title": "How Americans view the relationship between the government and the news media",
@@ -400,6 +395,11 @@
       "date": "2026-09-29",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
+      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
     }
   ]
 }
