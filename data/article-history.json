@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-26",
-      "title": "Maps can be misleading – on purpose – and their story becomes history. The case of Ethiopia",
-      "url": "https://theconversation.com/maps-can-be-misleading-on-purpose-and-their-story-becomes-history-the-case-of-ethiopia-291675",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Physicists zoom into the birth of cosmic rainstorms with new CERN study",
-      "url": "https://theconversation.com/physicists-zoom-into-the-birth-of-cosmic-rainstorms-with-new-cern-study-280890",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Do Americans think chatbots help or hurt people using them for loneliness, depression or stress?",
-      "url": "https://www.pewresearch.org/science/2026/08/25/do-americans-think-chatbots-help-or-hurt-people-using-them-for-loneliness-depression-or-stress/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "The way we talk to bots matters even if they aren’t conscious",
-      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
-      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
-      "source": "Pew Research Center",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-09-27",
       "title": "How South Koreans view their relationship with the U.S.",
       "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
@@ -370,14 +314,65 @@
       "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "The way we talk to bots matters even if they aren’t conscious",
+      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "The evil eye is irrational. Abandon it at your peril",
+      "url": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Social media hasn’t killed personal style, it’s killed how we communicate it",
+      "url": "https://theconversation.com/social-media-hasnt-killed-personal-style-its-killed-how-we-communicate-it-292483",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
+      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "How smaller, distributed batteries could help the grid",
+      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Green tree ants are famous in the tropics",
+      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-26",
-      "title": "Maps can be misleading – on purpose – and their story becomes history. The case of Ethiopia",
-      "url": "https://theconversation.com/maps-can-be-misleading-on-purpose-and-their-story-becomes-history-the-case-of-ethiopia-291675"
-    },
     {
       "date": "2026-09-27",
       "title": "How South Koreans view their relationship with the U.S.",
@@ -407,6 +402,11 @@
       "date": "2026-10-02",
       "title": "Ethiopia is sliding back toward war – a look at what is driving the fighting and why it matters",
       "url": "https://theconversation.com/ethiopia-is-sliding-back-toward-war-a-look-at-what-is-driving-the-fighting-and-why-it-matters-293073"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
     }
   ]
 }
