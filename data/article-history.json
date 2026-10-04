@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-27",
-      "title": "How South Koreans view their relationship with the U.S.",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "How the emojis and fashion choices of Germany’s far-right supporters get around the ban on Nazi symbolism",
-      "url": "https://theconversation.com/how-the-emojis-and-fashion-choices-of-germanys-far-right-supporters-get-around-the-ban-on-nazi-symbolism-292140",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "DRC’s cobalt exports contain unreported uranium – our study estimates the global nuclear risk",
-      "url": "https://theconversation.com/drcs-cobalt-exports-contain-unreported-uranium-our-study-estimates-the-global-nuclear-risk-291107",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
-      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "We published a new topic page on economic inequality",
-      "url": "https://ourworldindata.org/we-published-a-new-topic-page-on-economic-inequality",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Maxxing treats life as a problem when it’s a mystery",
-      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "AI is dominating the conversation at Climate Week",
-      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-09-28",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
       "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
@@ -370,14 +314,65 @@
       "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
+      "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Manchester City supporters have been gaslit. What happens now?",
+      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "How Americans view the relationship between the government and the news media",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Maxxing treats life as a problem when it’s a mystery",
+      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Latter-day Saints: Happy in their family lives, traditional in gender roles",
+      "url": "https://www.pewresearch.org/religion/2026/09/22/latter-day-saints-happy-in-their-family-lives-traditional-in-gender-roles/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "Life on a hair trigger",
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-27",
-      "title": "How South Koreans view their relationship with the U.S.",
-      "url": "https://www.pewresearch.org/short-reads/2026/08/24/how-south-koreans-view-their-relationship-with-the-us/"
-    },
     {
       "date": "2026-09-28",
       "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
@@ -407,6 +402,11 @@
       "date": "2026-10-03",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
       "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
+    },
+    {
+      "date": "2026-10-04",
+      "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
+      "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777"
     }
   ]
 }
