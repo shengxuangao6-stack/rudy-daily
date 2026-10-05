@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-28",
-      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
-      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Why AI consciousness could become the next great societal divide",
-      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Why women’s laughter has long been treated as a threat",
-      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Who has heard or read a lot about AI, and how is awareness changing?",
-      "url": "https://www.pewresearch.org/global/2026/09/17/who-has-heard-or-read-a-lot-about-ai-and-how-is-awareness-changing/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "How primary energy is measured has changed across our charts",
-      "url": "https://ourworldindata.org/primary-energy-measurement-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "Lessons from Wyatt Earp country",
-      "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-29",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
@@ -370,14 +321,65 @@
       "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Why AI consciousness could become the next great societal divide",
+      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Go ahead, jump on the bandwagon",
+      "url": "https://psyche.co/notes-to-self/why-we-should-embrace-fair-weather-fandom",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "How the emojis and fashion choices of Germany’s far-right supporters get around the ban on Nazi symbolism",
+      "url": "https://theconversation.com/how-the-emojis-and-fashion-choices-of-germanys-far-right-supporters-get-around-the-ban-on-nazi-symbolism-292140",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Terminal lucidity: when dying dementia patients regain awareness",
+      "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-28",
-      "title": "Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law",
-      "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849"
-    },
     {
       "date": "2026-09-29",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -407,6 +409,11 @@
       "date": "2026-10-04",
       "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
       "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Why AI consciousness could become the next great societal divide",
+      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886"
     }
   ]
 }
