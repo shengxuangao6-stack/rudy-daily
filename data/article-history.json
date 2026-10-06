@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-29",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
-      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "Can he teach the teachers?",
-      "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "How high is current immigration to the United States in historical perspective?",
-      "url": "https://ourworldindata.org/how-high-is-current-immigration-to-the-united-states-in-historical-perspective",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "How to uncover your blind spots",
-      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-09-30",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
       "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
@@ -377,14 +321,65 @@
       "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Can he teach the teachers?",
+      "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "What does it really take to be a resilient mother?",
+      "url": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "A life in episodes",
+      "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-29",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
-    },
     {
       "date": "2026-09-30",
       "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
@@ -414,6 +409,11 @@
       "date": "2026-10-05",
       "title": "Why AI consciousness could become the next great societal divide",
       "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
     }
   ]
 }
