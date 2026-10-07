@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-09-30",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Chatbots as oracles: How AI is giving new life to the ancient practice of seeking answers from inscrutable sources",
-      "url": "https://theconversation.com/chatbots-as-oracles-how-ai-is-giving-new-life-to-the-ancient-practice-of-seeking-answers-from-inscrutable-sources-289279",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "When you feel moral disgust, what’s the emotion telling you?",
-      "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "What do young people around the world think about AI?",
-      "url": "https://www.pewresearch.org/global/2026/09/17/what-do-young-people-around-the-world-think-about-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "How Americans think about censorship of news in the U.S.",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "What does it mean to have relationship ambivalence?",
-      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-01",
       "title": "Internet, Science & Tech – September 28, 2026",
       "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
@@ -377,14 +335,58 @@
       "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "How geopolitical tensions tainted the 2026 Asian Games",
+      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "When you feel moral disgust, what’s the emotion telling you?",
+      "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Nina Simone, Langston Hughes and their forgotten creative collaboration",
+      "url": "https://theconversation.com/nina-simone-langston-hughes-and-their-forgotten-creative-collaboration-290878",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "What Do Australians Think About Social Media Restrictions for Kids?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/01/what-do-australians-think-about-social-media-restrictions-for-kids/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "How Americans think about censorship of news in the U.S.",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "What does it mean to have relationship ambivalence?",
+      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-09-30",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy",
-      "url": "https://theconversation.com/portugal-decriminalized-drugs-25-years-ago-but-the-real-lesson-is-what-it-built-around-this-policy-289572"
-    },
     {
       "date": "2026-10-01",
       "title": "Internet, Science & Tech – September 28, 2026",
@@ -414,6 +416,11 @@
       "date": "2026-10-06",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "How geopolitical tensions tainted the 2026 Asian Games",
+      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279"
     }
   ]
 }
