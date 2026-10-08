@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-01",
-      "title": "Internet, Science & Tech – September 28, 2026",
-      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "How sugar from outer space became one of the backbones of life on Earth",
-      "url": "https://theconversation.com/how-sugar-from-outer-space-became-one-of-the-backbones-of-life-on-earth-293089",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
-      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "How well synthetic samples replicate public opinion",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Once upon a screen: explosive paradox",
-      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "The full-service grandad",
-      "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-02",
       "title": "Ethiopia is sliding back toward war – a look at what is driving the fighting and why it matters",
       "url": "https://theconversation.com/ethiopia-is-sliding-back-toward-war-a-look-at-what-is-driving-the-fighting-and-why-it-matters-293073",
@@ -384,14 +328,65 @@
       "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Internet, Science & Tech – September 28, 2026",
+      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "How pond algae led to a Nobel prize and a new way to study the brain",
+      "url": "https://theconversation.com/how-pond-algae-led-to-a-nobel-prize-and-a-new-way-to-study-the-brain-293579",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Cities across the world are sinking because of groundwater depletion. But the process can be reversed",
+      "url": "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "A psychological guide to climbing out of debt",
+      "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Want to be a lifelong learner? Don’t go it alone",
+      "url": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Social Media Platform Use Around the World",
+      "url": "https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "How to assemble science",
+      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-01",
-      "title": "Internet, Science & Tech – September 28, 2026",
-      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/"
-    },
     {
       "date": "2026-10-02",
       "title": "Ethiopia is sliding back toward war – a look at what is driving the fighting and why it matters",
@@ -421,6 +416,11 @@
       "date": "2026-10-07",
       "title": "How geopolitical tensions tainted the 2026 Asian Games",
       "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Internet, Science & Tech – September 28, 2026",
+      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/"
     }
   ]
 }
