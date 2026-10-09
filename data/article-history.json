@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-02",
-      "title": "Ethiopia is sliding back toward war – a look at what is driving the fighting and why it matters",
-      "url": "https://theconversation.com/ethiopia-is-sliding-back-toward-war-a-look-at-what-is-driving-the-fighting-and-why-it-matters-293073",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "What the ‘American dream’ means to U.S. Latinos, in their own words",
-      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/what-the-american-dream-means-to-u-s-latinos-in-their-own-words/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Welcoming machines as audience: A guide for nonprofit communicators thinking about AI",
-      "url": "https://www.pewresearch.org/internet/2026/10/01/welcoming-machines-as-audience-a-guide-for-nonprofit-communicators-thinking-about-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Johannesburg and Medellín: what South Africa can learn from Colombia about fixing a broken city",
-      "url": "https://theconversation.com/johannesburg-and-medellin-what-south-africa-can-learn-from-colombia-about-fixing-a-broken-city-292092",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "How to find calm and joy as a queer person",
-      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "How the West was fun",
-      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-10-03",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
       "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "The U.S. electorate’s changing racial and ethnic makeup",
+      "url": "https://www.pewresearch.org/newsletter/politics/politics-sept-18/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "How sugar from outer space became one of the backbones of life on Earth",
+      "url": "https://theconversation.com/how-sugar-from-outer-space-became-one-of-the-backbones-of-life-on-earth-293089",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Anne Carson wins Nobel prize in literature – how she discovered new possibilities within language",
+      "url": "https://theconversation.com/anne-carson-wins-nobel-prize-in-literature-how-she-discovered-new-possibilities-within-language-293969",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Why we’re watching these climate tech companies",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "How to find calm and joy as a queer person",
+      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "How the West was fun",
+      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-02",
-      "title": "Ethiopia is sliding back toward war – a look at what is driving the fighting and why it matters",
-      "url": "https://theconversation.com/ethiopia-is-sliding-back-toward-war-a-look-at-what-is-driving-the-fighting-and-why-it-matters-293073"
-    },
     {
       "date": "2026-10-03",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
@@ -421,6 +416,11 @@
       "date": "2026-10-08",
       "title": "Internet, Science & Tech – September 28, 2026",
       "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden"
     }
   ]
 }
