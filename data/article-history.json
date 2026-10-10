@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-03",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "The way we talk to bots matters even if they aren’t conscious",
-      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "The evil eye is irrational. Abandon it at your peril",
-      "url": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Social media hasn’t killed personal style, it’s killed how we communicate it",
-      "url": "https://theconversation.com/social-media-hasnt-killed-personal-style-its-killed-how-we-communicate-it-292483",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
-      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "How smaller, distributed batteries could help the grid",
-      "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Green tree ants are famous in the tropics",
-      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-04",
       "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
       "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
+      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Welcoming machines as audience: A guide for nonprofit communicators thinking about AI",
+      "url": "https://www.pewresearch.org/internet/2026/10/01/welcoming-machines-as-audience-a-guide-for-nonprofit-communicators-thinking-about-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Why moving on after a breakup makes you a better person",
+      "url": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "The way we talk to bots matters even if they aren’t conscious",
+      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Chatbots as oracles: How AI is giving new life to the ancient practice of seeking answers from inscrutable sources",
+      "url": "https://theconversation.com/chatbots-as-oracles-how-ai-is-giving-new-life-to-the-ancient-practice-of-seeking-answers-from-inscrutable-sources-289279",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "138 million children are in child labor. What does this actually mean?",
+      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Green tree ants are famous in the tropics",
+      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-03",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
-    },
     {
       "date": "2026-10-04",
       "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
@@ -421,6 +416,11 @@
       "date": "2026-10-09",
       "title": "Why long-brewing physical and mental breakdowns feel so sudden",
       "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
     }
   ]
 }
