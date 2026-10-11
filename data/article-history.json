@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-04",
-      "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
-      "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Manchester City supporters have been gaslit. What happens now?",
-      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "How Americans view the relationship between the government and the news media",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Maxxing treats life as a problem when it’s a mystery",
-      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Latter-day Saints: Happy in their family lives, traditional in gender roles",
-      "url": "https://www.pewresearch.org/religion/2026/09/22/latter-day-saints-happy-in-their-family-lives-traditional-in-gender-roles/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "Life on a hair trigger",
-      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-10-05",
       "title": "Why AI consciousness could become the next great societal divide",
       "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "How Americans view the relationship between the government and the news media",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Social media hasn’t killed personal style, it’s killed how we communicate it",
+      "url": "https://theconversation.com/social-media-hasnt-killed-personal-style-its-killed-how-we-communicate-it-292483",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Manchester City supporters have been gaslit. What happens now?",
+      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "How to ignite your creativity",
+      "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Life on a hair trigger",
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-04",
-      "title": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
-      "url": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777"
-    },
     {
       "date": "2026-10-05",
       "title": "Why AI consciousness could become the next great societal divide",
@@ -421,6 +416,11 @@
       "date": "2026-10-10",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
     }
   ]
 }
