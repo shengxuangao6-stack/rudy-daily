@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-05",
-      "title": "Why AI consciousness could become the next great societal divide",
-      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Go ahead, jump on the bandwagon",
-      "url": "https://psyche.co/notes-to-self/why-we-should-embrace-fair-weather-fandom",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "How the emojis and fashion choices of Germany’s far-right supporters get around the ban on Nazi symbolism",
-      "url": "https://theconversation.com/how-the-emojis-and-fashion-choices-of-germanys-far-right-supporters-get-around-the-ban-on-nazi-symbolism-292140",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "What impact will climate change have on malaria?",
-      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Terminal lucidity: when dying dementia patients regain awareness",
-      "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-10-06",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
@@ -384,14 +328,58 @@
       "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
+      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "How Ukraine is bringing the war home to Russia",
+      "url": "https://theconversation.com/how-ukraine-is-bringing-the-war-home-to-russia-290140",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Black men suffer racial trauma yet are seen as the threat",
+      "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "How synthetic polling results change based on the AI model",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "The full-service grandad",
+      "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-05",
-      "title": "Why AI consciousness could become the next great societal divide",
-      "url": "https://theconversation.com/why-ai-consciousness-could-become-the-next-great-societal-divide-291886"
-    },
     {
       "date": "2026-10-06",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -421,6 +409,11 @@
       "date": "2026-10-11",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
       "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
+      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963"
     }
   ]
 }
