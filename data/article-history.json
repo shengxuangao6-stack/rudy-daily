@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-08",
-      "title": "Internet, Science & Tech – September 28, 2026",
-      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "How pond algae led to a Nobel prize and a new way to study the brain",
-      "url": "https://theconversation.com/how-pond-algae-led-to-a-nobel-prize-and-a-new-way-to-study-the-brain-293579",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Cities across the world are sinking because of groundwater depletion. But the process can be reversed",
-      "url": "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "A psychological guide to climbing out of debt",
-      "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Want to be a lifelong learner? Don’t go it alone",
-      "url": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Social Media Platform Use Around the World",
-      "url": "https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Here’s how our climate team picked 10 promising companies to watch",
-      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "How to assemble science",
-      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-09",
       "title": "Why long-brewing physical and mental breakdowns feel so sudden",
       "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
@@ -377,14 +321,65 @@
       "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Air conditioners contribute to climate change – this 40-year-old treaty aims to limit the harm",
+      "url": "https://theconversation.com/air-conditioners-contribute-to-climate-change-this-40-year-old-treaty-aims-to-limit-the-harm-293262",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "📱 Americans and smartphones 📱",
+      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "How to handle jealous feelings",
+      "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Want to be a lifelong learner? Don’t go it alone",
+      "url": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone",
+      "source": "Psyche",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "What Do Australians Think About Social Media Restrictions for Kids?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/01/what-do-australians-think-about-social-media-restrictions-for-kids/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "How primary energy is measured has changed across our charts",
+      "url": "https://ourworldindata.org/primary-energy-measurement-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Is everything conscious?",
+      "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-08",
-      "title": "Internet, Science & Tech – September 28, 2026",
-      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/"
-    },
     {
       "date": "2026-10-09",
       "title": "Why long-brewing physical and mental breakdowns feel so sudden",
@@ -414,6 +409,11 @@
       "date": "2026-10-14",
       "title": "How Americans think about censorship of news in the U.S.",
       "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-think-about-censorship-of-news-in-the-us/"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Air conditioners contribute to climate change – this 40-year-old treaty aims to limit the harm",
+      "url": "https://theconversation.com/air-conditioners-contribute-to-climate-change-this-40-year-old-treaty-aims-to-limit-the-harm-293262"
     }
   ]
 }
