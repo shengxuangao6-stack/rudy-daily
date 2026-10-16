@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-09",
-      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "The U.S. electorate’s changing racial and ethnic makeup",
-      "url": "https://www.pewresearch.org/newsletter/politics/politics-sept-18/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "How sugar from outer space became one of the backbones of life on Earth",
-      "url": "https://theconversation.com/how-sugar-from-outer-space-became-one-of-the-backbones-of-life-on-earth-293089",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Anne Carson wins Nobel prize in literature – how she discovered new possibilities within language",
-      "url": "https://theconversation.com/anne-carson-wins-nobel-prize-in-literature-how-she-discovered-new-possibilities-within-language-293969",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "How to find calm and joy as a queer person",
-      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "How the West was fun",
-      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-10-10",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
@@ -377,14 +321,65 @@
       "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "How geopolitical tensions tainted the 2026 Asian Games",
+      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "How mental disorders play havoc with our motivation",
+      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
+      "url": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Social Media Platform Use Around the World",
+      "url": "https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "The U.S. electorate’s changing racial and ethnic makeup",
+      "url": "https://www.pewresearch.org/newsletter/politics/politics-sept-18/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "source": "MIT Technology Review",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-09",
-      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden"
-    },
     {
       "date": "2026-10-10",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -414,6 +409,11 @@
       "date": "2026-10-15",
       "title": "Air conditioners contribute to climate change – this 40-year-old treaty aims to limit the harm",
       "url": "https://theconversation.com/air-conditioners-contribute-to-climate-change-this-40-year-old-treaty-aims-to-limit-the-harm-293262"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "How geopolitical tensions tainted the 2026 Asian Games",
+      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279"
     }
   ]
 }
