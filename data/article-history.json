@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-11",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "How Americans view the relationship between the government and the news media",
-      "url": "https://www.pewresearch.org/journalism/2026/09/15/how-americans-view-the-relationship-between-the-government-and-the-news-media/",
-      "source": "Pew Research Center",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Social media hasn’t killed personal style, it’s killed how we communicate it",
-      "url": "https://theconversation.com/social-media-hasnt-killed-personal-style-its-killed-how-we-communicate-it-292483",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Manchester City supporters have been gaslit. What happens now?",
-      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "How to ignite your creativity",
-      "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Life on a hair trigger",
-      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-10-12",
       "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
       "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
@@ -377,14 +321,65 @@
       "url": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Latter-day Saints: Happy in their family lives, traditional in gender roles",
+      "url": "https://www.pewresearch.org/religion/2026/09/22/latter-day-saints-happy-in-their-family-lives-traditional-in-gender-roles/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Maricarmen Abascal: how a disabled, evicted 87-year-old woman became a political football in Spain’s upcoming election",
+      "url": "https://theconversation.com/maricarmen-abascal-how-a-disabled-evicted-87-year-old-woman-became-a-political-football-in-spains-upcoming-election-294174",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
+      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "The social construction of emotions",
+      "url": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Life on a hair trigger",
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-11",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
-    },
     {
       "date": "2026-10-12",
       "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
@@ -414,6 +409,11 @@
       "date": "2026-10-17",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
     }
   ]
 }
