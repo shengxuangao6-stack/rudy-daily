@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-12",
-      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
-      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "How Ukraine is bringing the war home to Russia",
-      "url": "https://theconversation.com/how-ukraine-is-bringing-the-war-home-to-russia-290140",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Black men suffer racial trauma yet are seen as the threat",
-      "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
-      "source": "Pew Research Center",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "How synthetic polling results change based on the AI model",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "What impact will climate change have on malaria?",
-      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "The full-service grandad",
-      "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-13",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
@@ -377,14 +328,58 @@
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
+      "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Cities are sinking – but citywide averages hide the real problem",
+      "url": "https://theconversation.com/cities-are-sinking-but-citywide-averages-hide-the-real-problem-294213",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "How synthetic polling results change based on the AI model",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Black men suffer racial trauma yet are seen as the threat",
+      "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-12",
-      "title": "A bestselling novel was pulled from a French literary prize after AI accusations – what next?",
-      "url": "https://theconversation.com/a-bestselling-novel-was-pulled-from-a-french-literary-prize-after-ai-accusations-what-next-292963"
-    },
     {
       "date": "2026-10-13",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -414,6 +409,11 @@
       "date": "2026-10-18",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
       "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Is this the ‘mathocalypse’? Why OpenAI’s latest results dump has left mathematicians in shock",
+      "url": "https://theconversation.com/is-this-the-mathocalypse-why-openais-latest-results-dump-has-left-mathematicians-in-shock-293837"
     }
   ]
 }
