@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-16",
-      "title": "How geopolitical tensions tainted the 2026 Asian Games",
-      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "How mental disorders play havoc with our motivation",
-      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
-      "url": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Social Media Platform Use Around the World",
-      "url": "https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "The U.S. electorate’s changing racial and ethnic makeup",
-      "url": "https://www.pewresearch.org/newsletter/politics/politics-sept-18/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "source": "MIT Technology Review",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-10-17",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
@@ -377,14 +321,65 @@
       "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
+      "url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Why romantic relationships matter more to men than to women",
+      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "How to live a life of awe",
+      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "url": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Three things you should know about permafrost",
+      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "How intuitions work",
+      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-16",
-      "title": "How geopolitical tensions tainted the 2026 Asian Games",
-      "url": "https://theconversation.com/how-geopolitical-tensions-tainted-the-2026-asian-games-293279"
-    },
     {
       "date": "2026-10-17",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -414,6 +409,11 @@
       "date": "2026-10-22",
       "title": "Manchester City supporters have been gaslit. What happens now?",
       "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/"
     }
   ]
 }
