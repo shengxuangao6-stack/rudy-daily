@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-17",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Earth’s oldest evidence of life is written in stone – but it’s at risk of disappearing",
-      "url": "https://theconversation.com/earths-oldest-evidence-of-life-is-written-in-stone-but-its-at-risk-of-disappearing-293101",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Snakebites are a far bigger problem than we knew: new study maps the hidden dangers",
-      "url": "https://theconversation.com/snakebites-are-a-far-bigger-problem-than-we-knew-new-study-maps-the-hidden-dangers-292524",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Welcoming machines as audience: A guide for nonprofit communicators thinking about AI",
-      "url": "https://www.pewresearch.org/internet/2026/10/01/welcoming-machines-as-audience-a-guide-for-nonprofit-communicators-thinking-about-ai/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "How to be a (Roman) man",
-      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Why moving on after a breakup makes you a better person",
-      "url": "https://psyche.co/ideas/why-moving-on-after-a-breakup-makes-you-a-better-person",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-18",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
       "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
@@ -377,14 +321,58 @@
       "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Can you ever really think what someone else is thinking?",
+      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
+      "url": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Welcoming machines as audience: A guide for nonprofit communicators thinking about AI",
+      "url": "https://www.pewresearch.org/internet/2026/10/01/welcoming-machines-as-audience-a-guide-for-nonprofit-communicators-thinking-about-ai/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Africa’s bats could survive climate change – if they can find somewhere to live",
+      "url": "https://theconversation.com/africas-bats-could-survive-climate-change-if-they-can-find-somewhere-to-live-293184",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "How mental disorders play havoc with our motivation",
+      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-17",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
-    },
     {
       "date": "2026-10-18",
       "title": "Can AI Stand In for Human Survey-Takers? Not Really",
@@ -414,6 +402,11 @@
       "date": "2026-10-23",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
     }
   ]
 }
