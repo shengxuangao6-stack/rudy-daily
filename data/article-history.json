@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-20",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "News Platform Fact Sheet",
-      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
-      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "What life in Denmark shows about the power of emotional safety",
-      "url": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy",
-      "url": "https://theconversation.com/yemens-houthis-are-bringing-their-war-to-saudi-arabia-and-reframing-the-narrative-of-being-an-iranian-proxy-294208",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "What does it really take to be a resilient mother?",
-      "url": "https://psyche.co/ideas/what-does-it-really-take-to-be-a-resilient-mother",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-21",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
@@ -363,14 +314,58 @@
       "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "‘We changed the system’: how Serbian students ended Alexander Vučić’s 12 years in power",
+      "url": "https://theconversation.com/we-changed-the-system-how-serbian-students-ended-alexander-vucics-12-years-in-power-295119",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "What life in Denmark shows about the power of emotional safety",
+      "url": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "How much development aid is spent on climate change?",
+      "url": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Everyone says they have anxiety. Clinical anxiety is different",
+      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "News Platform Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-20",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/"
-    },
     {
       "date": "2026-10-21",
       "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -400,6 +395,11 @@
       "date": "2026-10-26",
       "title": "When do people experience mental health conditions for the first time?",
       "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
     }
   ]
 }
