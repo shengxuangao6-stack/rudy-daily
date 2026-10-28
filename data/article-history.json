@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-21",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Donald Trump aligns with Vladimir Putin yet again, leaving Ukraine – and US relations with Europe – under pressure",
-      "url": "https://theconversation.com/donald-trump-aligns-with-vladimir-putin-yet-again-leaving-ukraine-and-us-relations-with-europe-under-pressure-294119",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "What is hidden in the photographs we keep of each other?",
-      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Video game film adaptations used to be huge flops. Now studios can’t get enough",
-      "url": "https://theconversation.com/video-game-film-adaptations-used-to-be-huge-flops-now-studios-cant-get-enough-294354",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Nebraska native explores galaxies far, far away",
-      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-      "source": "MIT Technology Review",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Americans’ Use of Internet, Broadband in 2026",
-      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "A cleaner path to rare earth metals",
-      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-22",
       "title": "Manchester City supporters have been gaslit. What happens now?",
       "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
@@ -363,14 +307,58 @@
       "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
       "source": "Pew Research Center",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
+      "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "The upside of untidiness: why a little mess can be good for your home",
+      "url": "https://theconversation.com/the-upside-of-untidiness-why-a-little-mess-can-be-good-for-your-home-294343",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "A plane crossing the Moon",
+      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Americans’ Use of Internet, Broadband in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "How to build real peace",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-21",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/"
-    },
     {
       "date": "2026-10-22",
       "title": "Manchester City supporters have been gaslit. What happens now?",
@@ -400,6 +388,11 @@
       "date": "2026-10-27",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
+      "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
     }
   ]
 }
