@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-22",
-      "title": "Manchester City supporters have been gaslit. What happens now?",
-      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Want to be a lifelong learner? Don’t go it alone",
-      "url": "https://psyche.co/ideas/want-to-be-a-lifelong-learner-dont-go-it-alone",
-      "source": "Psyche",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "📱 Americans and smartphones 📱",
-      "url": "https://www.pewresearch.org/newsletter/campaign/internet-science-tech-september-28-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Online Communities Rarely Focus on Politics, and Many Say It Should Stay That Way",
-      "url": "https://www.pewresearch.org/short-reads/2026/10/20/online-communities-rarely-focus-on-politics-and-many-say-it-should-stay-that-way/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "How to overcome task paralysis",
-      "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "A life in episodes",
-      "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-10-23",
       "title": "How Pew Research Center is – and is not – using AI in our work",
       "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/",
@@ -356,14 +300,58 @@
       "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "What is hidden in the photographs we keep of each other?",
+      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "What Do Australians Think About Social Media Restrictions for Kids?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/01/what-do-australians-think-about-social-media-restrictions-for-kids/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Israel has voted, but what comes next? Dissecting a messy ballot and coalition-building process",
+      "url": "https://theconversation.com/israel-has-voted-but-what-comes-next-dissecting-a-messy-ballot-and-coalition-building-process-295404",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "How to overcome task paralysis",
+      "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Social Media Platform Use Around the World",
+      "url": "https://www.pewresearch.org/global/2026/10/01/social-media-platform-use-around-the-world/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-22",
-      "title": "Manchester City supporters have been gaslit. What happens now?",
-      "url": "https://theconversation.com/manchester-city-supporters-have-been-gaslit-what-happens-now-293249"
-    },
     {
       "date": "2026-10-23",
       "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -393,6 +381,11 @@
       "date": "2026-10-28",
       "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
       "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "What is hidden in the photographs we keep of each other?",
+      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other"
     }
   ]
 }
