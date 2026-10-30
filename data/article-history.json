@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-23",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
-      "url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Why romantic relationships matter more to men than to women",
-      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "How to live a life of awe",
-      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "url": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Three things you should know about permafrost",
-      "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "How intuitions work",
-      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-24",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
@@ -349,14 +293,65 @@
       "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
       "source": "Our World in Data",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "How to live a life of awe",
+      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
+      "url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
+      "url": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Why romantic relationships matter more to men than to women",
+      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "The physics of getting fired",
+      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "What is your civic personality?",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Which countries have already passed peak population, and when will the rest do so?",
+      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
+      "source": "Our World in Data",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-23",
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work/"
-    },
     {
       "date": "2026-10-24",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -386,6 +381,11 @@
       "date": "2026-10-29",
       "title": "What is hidden in the photographs we keep of each other?",
       "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
     }
   ]
 }
