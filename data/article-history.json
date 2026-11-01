@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-25",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Social media hasn’t killed personal style, it’s killed how we communicate it",
-      "url": "https://theconversation.com/social-media-hasnt-killed-personal-style-its-killed-how-we-communicate-it-292483",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
-      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "How to be a (Roman) man",
-      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Are you getting enough sun?",
-      "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "The Foundations of Scalable AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "138 million children are in child labor. What does this actually mean?",
-      "url": "https://ourworldindata.org/138-million-children-are-in-child-labor-what-does-this-actually-mean",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-10-26",
       "title": "When do people experience mental health conditions for the first time?",
       "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
@@ -349,14 +293,58 @@
       "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
+      "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
+      "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "How to be a (Roman) man",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Are you getting enough sun?",
+      "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "‘Heroes work here’: why I quit being an ER nurse",
+      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-25",
-      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
-      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/"
-    },
     {
       "date": "2026-10-26",
       "title": "When do people experience mental health conditions for the first time?",
@@ -386,6 +374,11 @@
       "date": "2026-10-31",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
+      "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771"
     }
   ]
 }
