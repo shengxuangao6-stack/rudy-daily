@@ -1,48 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-26",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
-      "source": "Our World in Data",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Cities are sinking – but citywide averages hide the real problem",
-      "url": "https://theconversation.com/cities-are-sinking-but-citywide-averages-hide-the-real-problem-294213",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Cities across the world are sinking because of groundwater depletion. But the process can be reversed",
-      "url": "https://theconversation.com/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed-292669",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "How to handle jealous feelings",
-      "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-27",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
@@ -342,14 +300,58 @@
       "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Around half of people will experience a mental health issue in their lifetime",
+      "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
+      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Serbia’s leaderless student movement has won a historic election – but what happens next?",
+      "url": "https://theconversation.com/serbias-leaderless-student-movement-has-won-a-historic-election-but-what-happens-next-295268",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Online Communities Rarely Focus on Politics, and Many Say It Should Stay That Way",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/20/online-communities-rarely-focus-on-politics-and-many-say-it-should-stay-that-way/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-26",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
-    },
     {
       "date": "2026-10-27",
       "title": "The focus on AI safety disasters ignores everyday harms",
@@ -379,6 +381,11 @@
       "date": "2026-11-01",
       "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
       "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Around half of people will experience a mental health issue in their lifetime",
+      "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime"
     }
   ]
 }
