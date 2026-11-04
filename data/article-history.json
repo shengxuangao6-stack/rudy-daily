@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-28",
-      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
-      "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "The upside of untidiness: why a little mess can be good for your home",
-      "url": "https://theconversation.com/the-upside-of-untidiness-why-a-little-mess-can-be-good-for-your-home-294343",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "A plane crossing the Moon",
-      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "Americans’ Use of Internet, Broadband in 2026",
-      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "How to build real peace",
-      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-10-29",
       "title": "What is hidden in the photographs we keep of each other?",
       "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
@@ -349,14 +300,65 @@
       "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "How different election results affect bank stability – global study",
+      "url": "https://theconversation.com/how-different-election-results-affect-bank-stability-global-study-295392",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
+      "url": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "A plane crossing the Moon",
+      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Stop counting tokens, start counting what ships",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "How Many People in the U.S. Are Middle Eastern or North African?",
+      "url": "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Jo Marchant: In search of now",
+      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-28",
-      "title": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
-      "url": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
-    },
     {
       "date": "2026-10-29",
       "title": "What is hidden in the photographs we keep of each other?",
@@ -386,6 +388,11 @@
       "date": "2026-11-03",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
       "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
+    },
+    {
+      "date": "2026-11-04",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     }
   ]
 }
