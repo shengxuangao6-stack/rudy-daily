@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-30",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "How to live a life of awe",
-      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "A critical flaw affecting 70% of all websites has the cybersecurity world panicked",
-      "url": "https://theconversation.com/a-critical-flaw-affecting-70-of-all-websites-has-the-cybersecurity-world-panicked-294941",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "France’s ‘casseurs’: why the term fails to do justice to the extent of looting and spiralling unrest",
-      "url": "https://theconversation.com/frances-casseurs-why-the-term-fails-to-do-justice-to-the-extent-of-looting-and-spiralling-unrest-294805",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Why romantic relationships matter more to men than to women",
-      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "The physics of getting fired",
-      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "What is your civic personality?",
-      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "Which countries have already passed peak population, and when will the rest do so?",
-      "url": "https://ourworldindata.org/which-countries-have-already-passed-peak-population-and-when-will-the-rest-do-so",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-10-31",
       "title": "How urban, suburban and rural Americans engage in society",
       "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
@@ -356,14 +300,65 @@
       "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
       "source": "Pew Research Center",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "The Binance hack exploited familiar weaknesses – all organisations should learn from it",
+      "url": "https://theconversation.com/the-binance-hack-exploited-familiar-weaknesses-all-organisations-should-learn-from-it-295627",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Why romantic relationships matter more to men than to women",
+      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Blue wave: The Democrats’ historic midterm election gains could also offer Canada a path to peace",
+      "url": "https://theconversation.com/blue-wave-the-democrats-historic-midterm-election-gains-could-also-offer-canada-a-path-to-peace-295834",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "What is your civic personality?",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "How to live a life of awe",
+      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-30",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
-    },
     {
       "date": "2026-10-31",
       "title": "How urban, suburban and rural Americans engage in society",
@@ -393,6 +388,11 @@
       "date": "2026-11-05",
       "title": "What’s next for US energy policy after the midterm elections?",
       "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
     }
   ]
 }
