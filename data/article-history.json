@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-10-31",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Is sexual objectification hard-wired? Our study used electrical brain stimulation to find out",
-      "url": "https://theconversation.com/is-sexual-objectification-hard-wired-our-study-used-electrical-brain-stimulation-to-find-out-294925",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "How the Sphinx is helping answer a riddle about extinct crocodiles",
-      "url": "https://theconversation.com/how-the-sphinx-is-helping-answer-a-riddle-about-extinct-crocodiles-294007",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Can you ever really think what someone else is thinking?",
-      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
-      "url": "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
-      "url": "https://ourworldindata.org/2026-lpi-update",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "How mental disorders play havoc with our motivation",
-      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-01",
       "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
       "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
@@ -356,14 +307,65 @@
       "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Why AI cannot ‘think’ like humans do",
+      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "From Wales to Finland, minority language speakers still face prejudice",
+      "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "How Americans feel about G20 countries",
+      "url": "https://www.pewresearch.org/newsletter/global/global-october-2026-newsletter/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Can you ever really think what someone else is thinking?",
+      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "How to break a bad habit",
+      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
+      "url": "https://ourworldindata.org/2026-lpi-update",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "How to build real peace",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-10-31",
-      "title": "How urban, suburban and rural Americans engage in society",
-      "url": "https://www.pewresearch.org/newsletter/campaign/the-briefing-2026-10-01/"
-    },
     {
       "date": "2026-11-01",
       "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
@@ -393,6 +395,11 @@
       "date": "2026-11-06",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Why AI cannot ‘think’ like humans do",
+      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
     }
   ]
 }
