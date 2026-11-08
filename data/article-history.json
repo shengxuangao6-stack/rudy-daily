@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-01",
-      "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
-      "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "These 3 charts show female-dominated jobs are actually the most exposed to AI",
-      "url": "https://theconversation.com/these-3-charts-show-female-dominated-jobs-are-actually-the-most-exposed-to-ai-288103",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "How to be a (Roman) man",
-      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "Are you getting enough sun?",
-      "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-01",
-      "title": "‘Heroes work here’: why I quit being an ER nurse",
-      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-02",
       "title": "Around half of people will experience a mental health issue in their lifetime",
       "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
@@ -363,14 +314,65 @@
       "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
+      "url": "https://theconversation.com/what-makes-music-truly-russian-the-forgotten-debate-between-tchaikovsky-and-his-star-pupil-295206",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Human speech follows the same patterns as birdsong — new research",
+      "url": "https://theconversation.com/human-speech-follows-the-same-patterns-as-birdsong-new-research-295030",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "‘Heroes work here’: why I quit being an ER nurse",
+      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Who am I if I don’t run?",
+      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Broad Public Confidence in Elections in the U.S. – but Partisans Differ Over Concerns About Access, Security",
+      "url": "https://www.pewresearch.org/politics/2026/10/20/broad-public-confidence-in-elections-in-the-u-s-but-partisans-differ-over-concerns-about-access-security/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-01",
-      "title": "I’ve been talking to MAGA supporters for years, and here’s why some are sticking with Trump — and others are not",
-      "url": "https://theconversation.com/ive-been-talking-to-maga-supporters-for-years-and-heres-why-some-are-sticking-with-trump-and-others-are-not-294771"
-    },
     {
       "date": "2026-11-02",
       "title": "Around half of people will experience a mental health issue in their lifetime",
@@ -400,6 +402,11 @@
       "date": "2026-11-07",
       "title": "Why AI cannot ‘think’ like humans do",
       "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
+      "url": "https://theconversation.com/what-makes-music-truly-russian-the-forgotten-debate-between-tchaikovsky-and-his-star-pupil-295206"
     }
   ]
 }
