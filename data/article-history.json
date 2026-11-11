@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-04",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "How different election results affect bank stability – global study",
-      "url": "https://theconversation.com/how-different-election-results-affect-bank-stability-global-study-295392",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "When a bull falls for a donkey: what an unlikely relationship reveals about animal sexuality",
-      "url": "https://theconversation.com/when-a-bull-falls-for-a-donkey-what-an-unlikely-relationship-reveals-about-animal-sexuality-295306",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "A plane crossing the Moon",
-      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "Stop counting tokens, start counting what ships",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "How Many People in the U.S. Are Middle Eastern or North African?",
-      "url": "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-04",
-      "title": "Jo Marchant: In search of now",
-      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-05",
       "title": "What’s next for US energy policy after the midterm elections?",
       "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
@@ -377,14 +321,65 @@
       "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "5 ways countries stymie climate negotiations without actually saying ‘no’",
+      "url": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "News Platform Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "How to help someone whose thinking seems delusional",
+      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "The wholehearted life",
+      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-04",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
-    },
     {
       "date": "2026-11-05",
       "title": "What’s next for US energy policy after the midterm elections?",
@@ -414,6 +409,11 @@
       "date": "2026-11-10",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
       "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
     }
   ]
 }
