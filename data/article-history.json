@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-05",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "The upside of untidiness: why a little mess can be good for your home",
-      "url": "https://theconversation.com/the-upside-of-untidiness-why-a-little-mess-can-be-good-for-your-home-294343",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "What animal bones in Malawi teach us about the social lives of people long ago",
-      "url": "https://theconversation.com/what-animal-bones-in-malawi-teach-us-about-the-social-lives-of-people-long-ago-281660",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "What impact will climate change have on malaria?",
-      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Everyone says they have anxiety. Clinical anxiety is different",
-      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Americans’ Use of Internet, Broadband in 2026",
-      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-06",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
@@ -377,14 +328,58 @@
       "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
+      "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Yes, the COP climate talks are far from perfect. But they still hold the power for change",
+      "url": "https://theconversation.com/yes-the-cop-climate-talks-are-far-from-perfect-but-they-still-hold-the-power-for-change-295350",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Everyone says they have anxiety. Clinical anxiety is different",
+      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "A plane crossing the Moon",
+      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Americans’ Use of Internet, Broadband in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "What to know about this year’s UN climate talks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Jo Marchant: In search of now",
+      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-05",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
-    },
     {
       "date": "2026-11-06",
       "title": "Americans’ mood before the election",
@@ -414,6 +409,11 @@
       "date": "2026-11-11",
       "title": "When do people experience mental health conditions for the first time?",
       "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
+      "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257"
     }
   ]
 }
