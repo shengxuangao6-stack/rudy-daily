@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-06",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "The Binance hack exploited familiar weaknesses – all organisations should learn from it",
-      "url": "https://theconversation.com/the-binance-hack-exploited-familiar-weaknesses-all-organisations-should-learn-from-it-295627",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Why romantic relationships matter more to men than to women",
-      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Blue wave: The Democrats’ historic midterm election gains could also offer Canada a path to peace",
-      "url": "https://theconversation.com/blue-wave-the-democrats-historic-midterm-election-gains-could-also-offer-canada-a-path-to-peace-295834",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "What is your civic personality?",
-      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-06",
-      "title": "How to live a life of awe",
-      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
       "date": "2026-11-07",
       "title": "Why AI cannot ‘think’ like humans do",
       "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
@@ -377,14 +321,65 @@
       "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
       "source": "Aeon",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "What animal bones in Malawi teach us about the social lives of people long ago",
+      "url": "https://theconversation.com/what-animal-bones-in-malawi-teach-us-about-the-social-lives-of-people-long-ago-281660",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "The Binance hack exploited familiar weaknesses – all organisations should learn from it",
+      "url": "https://theconversation.com/the-binance-hack-exploited-familiar-weaknesses-all-organisations-should-learn-from-it-295627",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Why anything exists",
+      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "My grandfather been tell me a lot of story about Lasseter",
+      "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Many Black Adults Say Close Relationships Influence Their Views About Being a Black Man or Woman",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/12/many-black-adults-say-close-relationships-influence-their-views-about-being-a-black-man-or-woman/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "The ethics of having a good time at Disney World, Florida",
+      "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-06",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
-    },
     {
       "date": "2026-11-07",
       "title": "Why AI cannot ‘think’ like humans do",
@@ -414,6 +409,11 @@
       "date": "2026-11-12",
       "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
       "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257"
+    },
+    {
+      "date": "2026-11-13",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
     }
   ]
 }
