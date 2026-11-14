@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-07",
-      "title": "Why AI cannot ‘think’ like humans do",
-      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "From Wales to Finland, minority language speakers still face prejudice",
-      "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "How Americans feel about G20 countries",
-      "url": "https://www.pewresearch.org/newsletter/global/global-october-2026-newsletter/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "Can you ever really think what someone else is thinking?",
-      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "How to break a bad habit",
-      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
-      "url": "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "A 73% average decline in wildlife populations: an overview of the 2026 Living Planet Index report",
-      "url": "https://ourworldindata.org/2026-lpi-update",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-07",
-      "title": "How to build real peace",
-      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-08",
       "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
       "url": "https://theconversation.com/what-makes-music-truly-russian-the-forgotten-debate-between-tchaikovsky-and-his-star-pupil-295206",
@@ -377,14 +321,65 @@
       "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Where Americans Get News Relates to How They Engage in Public Life",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "source": "MIT Technology Review",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "The uncomfortable question at the heart of Europe’s identity crisis",
+      "url": "https://theconversation.com/the-uncomfortable-question-at-the-heart-of-europes-identity-crisis-293136",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "From Wales to Finland, minority language speakers still face prejudice",
+      "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "What is your civic personality?",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+      "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+      "source": "Psyche",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "The power of group thought",
+      "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-07",
-      "title": "Why AI cannot ‘think’ like humans do",
-      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
-    },
     {
       "date": "2026-11-08",
       "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
@@ -414,6 +409,11 @@
       "date": "2026-11-13",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "Where Americans Get News Relates to How They Engage in Public Life",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/"
     }
   ]
 }
