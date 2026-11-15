@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-08",
-      "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
-      "url": "https://theconversation.com/what-makes-music-truly-russian-the-forgotten-debate-between-tchaikovsky-and-his-star-pupil-295206",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Human speech follows the same patterns as birdsong — new research",
-      "url": "https://theconversation.com/human-speech-follows-the-same-patterns-as-birdsong-new-research-295030",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "A never-ending childhood of malaria",
-      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "‘Heroes work here’: why I quit being an ER nurse",
-      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Who am I if I don’t run?",
-      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-08",
-      "title": "Broad Public Confidence in Elections in the U.S. – but Partisans Differ Over Concerns About Access, Security",
-      "url": "https://www.pewresearch.org/politics/2026/10/20/broad-public-confidence-in-elections-in-the-u-s-but-partisans-differ-over-concerns-about-access-security/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
       "date": "2026-11-09",
       "title": "Around half of people will experience a mental health issue in their lifetime",
       "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
@@ -377,14 +321,65 @@
       "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "‘Heroes work here’: why I quit being an ER nurse",
+      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Godzilla Minus Zero is incredibly loud. Who decides on the cinema volume? And is it safe?",
+      "url": "https://theconversation.com/godzilla-minus-zero-is-incredibly-loud-who-decides-on-the-cinema-volume-and-is-it-safe-295864",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Young turtles find refuge in both natural and artificial wetlands in UAE – new study",
+      "url": "https://theconversation.com/young-turtles-find-refuge-in-both-natural-and-artificial-wetlands-in-uae-new-study-295707",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "A never-ending childhood of malaria",
+      "url": "https://ourworldindata.org/a-never-ending-childhood-of-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "The Dating Attitudes of Single Black Adults",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/11/12/the-dating-attitudes-of-single-black-adults/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "How to break a bad habit",
+      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-08",
-      "title": "What makes music truly ‘Russian’? The forgotten debate between Tchaikovsky and his star pupil",
-      "url": "https://theconversation.com/what-makes-music-truly-russian-the-forgotten-debate-between-tchaikovsky-and-his-star-pupil-295206"
-    },
     {
       "date": "2026-11-09",
       "title": "Around half of people will experience a mental health issue in their lifetime",
@@ -414,6 +409,11 @@
       "date": "2026-11-14",
       "title": "Where Americans Get News Relates to How They Engage in Public Life",
       "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "‘Heroes work here’: why I quit being an ER nurse",
+      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind"
     }
   ]
 }
