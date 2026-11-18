@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-11",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
-      "source": "Our World in Data",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "5 ways countries stymie climate negotiations without actually saying ‘no’",
-      "url": "https://theconversation.com/5-ways-countries-stymie-climate-negotiations-without-actually-saying-no-295589",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "News Platform Fact Sheet",
-      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "How to help someone whose thinking seems delusional",
-      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "The wholehearted life",
-      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-11",
-      "title": "Evolving metal extraction processes",
-      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-12",
       "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
       "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257",
@@ -377,14 +321,65 @@
       "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+      "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "News Platform Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "How Many People in the U.S. Are Middle Eastern or North African?",
+      "url": "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "The cultural rules that define us take shape in our homes",
+      "url": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-11",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
-    },
     {
       "date": "2026-11-12",
       "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
@@ -414,6 +409,11 @@
       "date": "2026-11-17",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
       "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
     }
   ]
 }
