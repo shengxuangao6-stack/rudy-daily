@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-12",
-      "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
-      "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Yes, the COP climate talks are far from perfect. But they still hold the power for change",
-      "url": "https://theconversation.com/yes-the-cop-climate-talks-are-far-from-perfect-but-they-still-hold-the-power-for-change-295350",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Everyone says they have anxiety. Clinical anxiety is different",
-      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "A plane crossing the Moon",
-      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Americans’ Use of Internet, Broadband in 2026",
-      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "What to know about this year’s UN climate talks",
-      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "source": "MIT Technology Review",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "Jo Marchant: In search of now",
-      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-13",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
@@ -377,14 +328,65 @@
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
+      "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "How to help someone whose thinking seems delusional",
+      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Agatha Christie: A World of Mystery is a brilliant exploration of the life of the queen of crime",
+      "url": "https://theconversation.com/agatha-christie-a-world-of-mystery-is-a-brilliant-exploration-of-the-life-of-the-queen-of-crime-295778",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Americans’ Use of Internet, Broadband in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The Future of World Religions: Population Growth Projections, 2020-2070",
+      "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Jo Marchant: In search of now",
+      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The wholehearted life",
+      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-12",
-      "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost?",
-      "url": "https://theconversation.com/why-is-nvidia-so-powerful-in-the-ai-world-and-what-could-jensen-huangs-scandal-really-cost-296257"
-    },
     {
       "date": "2026-11-13",
       "title": "Americans’ mood before the election",
@@ -414,6 +416,11 @@
       "date": "2026-11-18",
       "title": "When do people experience mental health conditions for the first time?",
       "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
+    },
+    {
+      "date": "2026-11-19",
+      "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
+      "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668"
     }
   ]
 }
