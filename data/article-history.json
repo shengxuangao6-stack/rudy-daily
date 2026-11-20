@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-13",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "What animal bones in Malawi teach us about the social lives of people long ago",
-      "url": "https://theconversation.com/what-animal-bones-in-malawi-teach-us-about-the-social-lives-of-people-long-ago-281660",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "The Binance hack exploited familiar weaknesses – all organisations should learn from it",
-      "url": "https://theconversation.com/the-binance-hack-exploited-familiar-weaknesses-all-organisations-should-learn-from-it-295627",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Why anything exists",
-      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "My grandfather been tell me a lot of story about Lasseter",
-      "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Many Black Adults Say Close Relationships Influence Their Views About Being a Black Man or Woman",
-      "url": "https://www.pewresearch.org/short-reads/2026/11/12/many-black-adults-say-close-relationships-influence-their-views-about-being-a-black-man-or-woman/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "What impact will climate change have on malaria?",
-      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "The ethics of having a good time at Disney World, Florida",
-      "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-14",
       "title": "Where Americans Get News Relates to How They Engage in Public Life",
       "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/",
@@ -384,14 +328,65 @@
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "source": "MIT Technology Review",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Why anything exists",
+      "url": "https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing",
+      "source": "Aeon",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Women, work and caregiving",
+      "url": "https://www.pewresearch.org/newsletter/social-and-demographic-trends/sdt-november-2026-newsletter/",
+      "source": "Pew Research Center",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "One in eight cancers are likely caused by an infection worldwide – new study",
+      "url": "https://theconversation.com/one-in-eight-cancers-are-likely-caused-by-an-infection-worldwide-new-study-292996",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+      "url": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "What impact will climate change have on malaria?",
+      "url": "https://ourworldindata.org/what-impact-will-climate-change-have-on-malaria",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "source": "MIT Technology Review",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "My grandfather been tell me a lot of story about Lasseter",
+      "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-13",
-      "title": "Americans’ mood before the election",
-      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
-    },
     {
       "date": "2026-11-14",
       "title": "Where Americans Get News Relates to How They Engage in Public Life",
@@ -421,6 +416,11 @@
       "date": "2026-11-19",
       "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
       "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668"
+    },
+    {
+      "date": "2026-11-20",
+      "title": "Americans’ mood before the election",
+      "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
     }
   ]
 }
