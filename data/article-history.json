@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-14",
-      "title": "Where Americans Get News Relates to How They Engage in Public Life",
-      "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "The uncomfortable question at the heart of Europe’s identity crisis",
-      "url": "https://theconversation.com/the-uncomfortable-question-at-the-heart-of-europes-identity-crisis-293136",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "From Wales to Finland, minority language speakers still face prejudice",
-      "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "What is your civic personality?",
-      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
-      "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
-      "source": "Psyche",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "The power of group thought",
-      "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-14",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-15",
       "title": "‘Heroes work here’: why I quit being an ER nurse",
       "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
@@ -384,14 +328,65 @@
       "url": "https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective",
       "source": "Aeon",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Can AI Stand In for Human Survey-Takers?",
+      "url": "https://www.pewresearch.org/newsletter/methods-and-innovation/methods-innovation-newsletter-nov-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Younger and LGBTQ Adults in the U.S. Stand Out for Finding Friendship Online",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/17/younger-and-lgbtq-adults-in-the-us-stand-out-for-finding-friendship-online/",
+      "source": "Pew Research Center",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "The most iconic sports film of all time taught us winning isn’t everything: 50 years of Rocky",
+      "url": "https://theconversation.com/the-most-iconic-sports-film-of-all-time-taught-us-winning-isnt-everything-50-years-of-rocky-276876",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "From Wales to Finland, minority language speakers still face prejudice",
+      "url": "https://theconversation.com/from-wales-to-finland-minority-language-speakers-still-face-prejudice-289007",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source": "MIT Technology Review",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "The power of group thought",
+      "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+      "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+      "source": "Psyche",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-14",
-      "title": "Where Americans Get News Relates to How They Engage in Public Life",
-      "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/"
-    },
     {
       "date": "2026-11-15",
       "title": "‘Heroes work here’: why I quit being an ER nurse",
@@ -421,6 +416,11 @@
       "date": "2026-11-20",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Can AI Stand In for Human Survey-Takers?",
+      "url": "https://www.pewresearch.org/newsletter/methods-and-innovation/methods-innovation-newsletter-nov-2026/"
     }
   ]
 }
