@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-16",
-      "title": "Why AI cannot ‘think’ like humans do",
-      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
-      "source": "The Conversation",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Human speech follows the same patterns as birdsong — new research",
-      "url": "https://theconversation.com/human-speech-follows-the-same-patterns-as-birdsong-new-research-295030",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "‘Download My Free Guide’: What Products and Services Do Health and Wellness Influencers Promote?",
-      "url": "https://www.pewresearch.org/short-reads/2026/11/12/download-my-free-guide-what-products-and-services-do-health-and-wellness-influencers-promote/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Around half of people will experience a mental health issue in their lifetime",
-      "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
-      "source": "Our World in Data",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "Who am I if I don’t run?",
-      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "No matter how you ask, more Americans are negative than positive about AI",
-      "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-      "source": "Our World in Data",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "How Americans feel about G20 countries",
-      "url": "https://www.pewresearch.org/newsletter/global/global-october-2026-newsletter/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "When giving up teaches you more than persevering ever could",
-      "url": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
       "date": "2026-11-17",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
       "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
@@ -384,14 +328,65 @@
       "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
       "source": "Psyche",
       "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Why AI cannot ‘think’ like humans do",
+      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188",
+      "source": "The Conversation",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Who am I if I don’t run?",
+      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Human speech follows the same patterns as birdsong — new research",
+      "url": "https://theconversation.com/human-speech-follows-the-same-patterns-as-birdsong-new-research-295030",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Key Factors Shaping the Global Future of Religions",
+      "url": "https://www.pewresearch.org/religion/2026/11/18/key-factors-shaping-the-global-future-of-religions/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Around half of people will experience a mental health issue in their lifetime",
+      "url": "https://ourworldindata.org/around-half-of-people-will-experience-a-mental-health-issue-in-their-lifetime",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "No matter how you ask, more Americans are negative than positive about AI",
+      "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+      "source": "Our World in Data",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "The Future of Religion in the Middle East-North Africa Region",
+      "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-religion-in-the-middle-east-north-africa/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "The ethics of having a good time at Disney World, Florida",
+      "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-16",
-      "title": "Why AI cannot ‘think’ like humans do",
-      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
-    },
     {
       "date": "2026-11-17",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
@@ -421,6 +416,11 @@
       "date": "2026-11-22",
       "title": "Where Americans Get News Relates to How They Engage in Public Life",
       "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Why AI cannot ‘think’ like humans do",
+      "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
     }
   ]
 }
