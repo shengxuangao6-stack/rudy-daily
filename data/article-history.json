@@ -1,55 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-17",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
-      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
-      "source": "The Conversation",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "How the fog of war puts journalism in the frame",
-      "url": "https://theconversation.com/how-the-fog-of-war-puts-journalism-in-the-frame-295855",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "The physics of getting fired",
-      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Community and connection online",
-      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/internet-science-and-tech-newsletter-november-2-2026/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "How much development aid is spent on climate change?",
-      "url": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
-      "source": "Our World in Data",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "How psychology’s classic studies misled us about the self",
-      "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Building AI that can work across the enterprise",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-18",
       "title": "When do people experience mental health conditions for the first time?",
       "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
@@ -384,14 +335,58 @@
       "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
       "source": "Psyche",
       "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981",
+      "source": "The Conversation",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+      "url": "https://theconversation.com/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now-296994",
+      "source": "The Conversation",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "The wind and the song: the treachery of AI",
+      "url": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Community and connection online",
+      "url": "https://www.pewresearch.org/newsletter/internet-science-and-tech/internet-science-and-tech-newsletter-november-2-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "How much development aid is spent on climate change?",
+      "url": "https://ourworldindata.org/how-much-development-aid-is-spent-on-climate-change",
+      "source": "Our World in Data",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "How to take notes that actually help you learn",
+      "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Many Black Adults Say Close Relationships Influence Their Views About Being a Black Man or Woman",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/12/many-black-adults-say-close-relationships-influence-their-views-about-being-a-black-man-or-woman/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-17",
-      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
-      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
-    },
     {
       "date": "2026-11-18",
       "title": "When do people experience mental health conditions for the first time?",
@@ -421,6 +416,11 @@
       "date": "2026-11-23",
       "title": "Why AI cannot ‘think’ like humans do",
       "url": "https://theconversation.com/why-ai-cannot-think-like-humans-do-293188"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
+      "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
     }
   ]
 }
