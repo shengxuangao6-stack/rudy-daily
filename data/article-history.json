@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-18",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
-      "source": "Our World in Data",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Why you should live your life like an accountant – and how you probably already do",
-      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
-      "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
-      "source": "The Conversation",
-      "topic": "Language & Self"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "News Platform Fact Sheet",
-      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "How Many People in the U.S. Are Middle Eastern or North African?",
-      "url": "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "The cultural rules that define us take shape in our homes",
-      "url": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
-      "source": "Psyche",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-19",
       "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
       "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
@@ -384,14 +328,65 @@
       "url": "https://www.pewresearch.org/short-reads/2026/11/12/many-black-adults-say-close-relationships-influence-their-views-about-being-a-black-man-or-woman/",
       "source": "Pew Research Center",
       "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "How Americans feel about the midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/politics-11-24-2026/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Why you should live your life like an accountant – and how you probably already do",
+      "url": "https://theconversation.com/why-you-should-live-your-life-like-an-accountant-and-how-you-probably-already-do-290657",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Jensen Huang scandal illustrates why human nature is cybersecurity’s weakest link",
+      "url": "https://theconversation.com/jensen-huang-scandal-illustrates-why-human-nature-is-cybersecuritys-weakest-link-296763",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "The cultural rules that define us take shape in our homes",
+      "url": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+      "source": "Psyche",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Can AI Research Tools Help Code Data About Restrictions on Religion?",
+      "url": "https://www.pewresearch.org/decoded/2026/11/24/can-ai-research-tools-help-code-data-about-restrictions-on-religion/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Why ‘patient influencers’ should come with a health warning",
+      "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+      "source": "Psyche",
+      "topic": "Public Life"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-18",
-      "title": "When do people experience mental health conditions for the first time?",
-      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
-    },
     {
       "date": "2026-11-19",
       "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
@@ -421,6 +416,11 @@
       "date": "2026-11-24",
       "title": "The International Olympic Committee wants mental health screening in elite sports. Here’s why",
       "url": "https://theconversation.com/the-international-olympic-committee-wants-mental-health-screening-in-elite-sports-heres-why-291981"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "How Americans feel about the midterms",
+      "url": "https://www.pewresearch.org/newsletter/politics/politics-11-24-2026/"
     }
   ]
 }
