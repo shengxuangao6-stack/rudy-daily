@@ -1,62 +1,6 @@
 {
   "recentArticles": [
     {
-      "date": "2026-11-19",
-      "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
-      "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668",
-      "source": "The Conversation",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "How to help someone whose thinking seems delusional",
-      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
-      "source": "Psyche",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Agatha Christie: A World of Mystery is a brilliant exploration of the life of the queen of crime",
-      "url": "https://theconversation.com/agatha-christie-a-world-of-mystery-is-a-brilliant-exploration-of-the-life-of-the-queen-of-crime-295778",
-      "source": "The Conversation",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Americans’ Use of Internet, Broadband in 2026",
-      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
-      "source": "Pew Research Center",
-      "topic": "Technology & Society"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "The Future of World Religions: Population Growth Projections, 2020-2070",
-      "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/",
-      "source": "Pew Research Center",
-      "topic": "Public Life"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "Jo Marchant: In search of now",
-      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
-      "source": "Aeon",
-      "topic": "Mind & Relationships"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "The wholehearted life",
-      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
-      "source": "Aeon",
-      "topic": "Culture & Daily Life"
-    },
-    {
-      "date": "2026-11-19",
-      "title": "The AI Hype Index: AI is everywhere",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review",
-      "topic": "Technology & Society"
-    },
-    {
       "date": "2026-11-20",
       "title": "Americans’ mood before the election",
       "url": "https://www.pewresearch.org/newsletter/campaign/politics-10222026/",
@@ -384,14 +328,65 @@
       "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
       "source": "Psyche",
       "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Technology Review",
+      "topic": "Technology & Society"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Feeling at home in a new country makes you a stranger in the old",
+      "url": "https://psyche.co/ideas/feeling-at-home-in-a-new-country-makes-you-a-stranger-in-the-old",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Agatha Christie: A World of Mystery is a brilliant exploration of the life of the queen of crime",
+      "url": "https://theconversation.com/agatha-christie-a-world-of-mystery-is-a-brilliant-exploration-of-the-life-of-the-queen-of-crime-295778",
+      "source": "The Conversation",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Mother tongue language rights don’t implement themselves: Lessons from Nepal’s classrooms",
+      "url": "https://theconversation.com/mother-tongue-language-rights-dont-implement-themselves-lessons-from-nepals-classrooms-292724",
+      "source": "The Conversation",
+      "topic": "Language & Self"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "The Future of World Religions: Population Growth Projections, 2020-2070",
+      "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/",
+      "source": "Pew Research Center",
+      "topic": "Public Life"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "How to help someone whose thinking seems delusional",
+      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
+      "source": "Psyche",
+      "topic": "Mind & Relationships"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "The wholehearted life",
+      "url": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+      "source": "Aeon",
+      "topic": "Culture & Daily Life"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "What is your civic personality?",
+      "url": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-10-29-2026/",
+      "source": "Pew Research Center",
+      "topic": "Technology & Society"
     }
   ],
   "recentFrontPages": [
-    {
-      "date": "2026-11-19",
-      "title": "Fossil fuel lobbyists are trying to derail climate action once again at COP31. Can they be stopped?",
-      "url": "https://theconversation.com/fossil-fuel-lobbyists-are-trying-to-derail-climate-action-once-again-at-cop31-can-they-be-stopped-294668"
-    },
     {
       "date": "2026-11-20",
       "title": "Americans’ mood before the election",
@@ -421,6 +416,11 @@
       "date": "2026-11-25",
       "title": "How Americans feel about the midterms",
       "url": "https://www.pewresearch.org/newsletter/politics/politics-11-24-2026/"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
     }
   ]
 }
